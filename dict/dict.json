@@ -1,0 +1,42 @@
+[
+  {
+    "hanzi": {
+      "trans": {
+        "en": "violet color",
+        "pl": "kolor fioletowy"
+      },
+      "char": "紫色",
+      "pron": "zi3se4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He presented mother with a bouquet of violet flowers.",
+        "pl": "Podarował mamie bukiet fioletowych kwiatów."
+      },
+      "char": "他送给妈妈一束紫色的花儿。",
+      "pron": "ta1 song4gei3 ma1ma yi1 shu4 zi3se4 huar1"
+    },
+    "cat": "color",
+    "id": 36234
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "orange color",
+        "pl": "kolor pomarańczowy"
+      },
+      "char": "橙色",
+      "pron": "cheng2se4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Our neighbour bought an orange car.",
+        "pl": "Nasz sąsiad kupił pomarańczowy samochód."
+      },
+      "char": "我们的邻居买了一辆橙色的汽车。",
+      "pron": "wo3men de lin2ju1 mai3 le yi1 liang4 cheng2se4 de qi4che1"
+    },
+    "cat": "color",
+    "id": 97288
+  }
+]

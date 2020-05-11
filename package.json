@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "spaced-hanzi-repetition",
+    "version": "0.0.1",
+    "description": "way to collect hanzi, sentences and train node",
+    "main": "hanzi.js",
+    "author": "Jakub Strebeyko",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "add-card": "node --experimental-modules --experimental-json-modules hanzi.js add"
+    },
+    "dependencies": {
+        "chalk": "^4.0.0"
+    }
+}
