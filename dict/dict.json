@@ -38,5 +38,45 @@
     },
     "cat": "color",
     "id": 97288
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "grey color",
+        "pl": "kolor szary"
+      },
+      "char": "灰色",
+      "pron": "hui1se4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The sky's grey color makes me feel down.",
+        "pl": "Szare niebo powoduje, że czuję się przygnębiona."
+      },
+      "char": "灰色的天空使我觉得沮丧。",
+      "pron": "hui1se4 de tian1kong1 shi3 wo3 jue3de ju3sang4"
+    },
+    "cat": "color",
+    "id": 19037
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "brown color",
+        "pl": "kolor brązowy"
+      },
+      "char": "棕色",
+      "pron": "zong1se4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This brown skirt is ugly.",
+        "pl": "Ta brązowa spódnica jest brzydka."
+      },
+      "char": "这条棕色的裙子很难看。",
+      "pron": "zhe4 tiao2 zong1se4 de qun2zi hen3 nan2kan4"
+    },
+    "cat": "color",
+    "id": 87597
   }
 ]
