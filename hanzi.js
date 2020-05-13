@@ -5,7 +5,7 @@ import json from './dict/dict.json'
 
 const option = process.argv.slice(2)[0]
 
-console.log(chalk.bgRed.black.bold('你好'))
+console.log(chalk.bgRed.black('你好'))
 
 /**
  * ADDING a full card
@@ -141,7 +141,7 @@ if (option === 'add') {
 		fs.writeFile('dict/dict.json', data, function(err) {
 			if (err) console.log(err)
 			console.log(chalk.bgGreenBright.black('dict updated!'));
-			console.log(`Current number of entries: ${chalk.bold(json.length-1)}`)
+			console.log(`Current number of entries: ${chalk.bold(json.length)}`)
 		});
 	}
 

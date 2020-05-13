@@ -78,5 +78,45 @@
     },
     "cat": "color",
     "id": 87597
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "colorful",
+        "pl": "kolorowy"
+      },
+      "char": "彩色",
+      "pron": "cai3se4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Our coworker likes wearing colorful clothes.",
+        "pl": "Nasza koleżanka z pracy lubi nosić kolorowe ubrania."
+      },
+      "char": "我们的同事喜欢穿彩色的衣服。",
+      "pron": "wo3men de tong2shi4 xi3huan chuan1 cai3se4 de yi1fu"
+    },
+    "cat": "color",
+    "id": 45284
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get up",
+        "pl": "wstawać z łóżka"
+      },
+      "char": "起床",
+      "pron": "qi3chuang2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Father has not get up yet.",
+        "pl": "Tata jeszcze nie wstał z łóżka."
+      },
+      "char": "爸爸还没起床。",
+      "pron": "baba4 hai2 mei2 qi3chuang2"
+    },
+    "cat": "activities",
+    "id": 23550
   }
 ]
