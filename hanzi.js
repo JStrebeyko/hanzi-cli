@@ -53,7 +53,7 @@ if (option === 'add') {
 
 		transEN: () => {
 			return new Promise((resolve) => {
-				readlineI.question('Meaning: ', (answer) => {
+				readlineI.question(chalk.yellow('Meaning: '), (answer) => {
 					cardObj['hanzi']['trans']['en'] = answer;
 					resolve()
 				})
@@ -92,7 +92,7 @@ if (option === 'add') {
 
 		transEN: () => {
 			return new Promise((resolve) => {
-				readlineI.question('Sentence meaning: ', (answer) => {
+				readlineI.question(chalk.yellow('Sentence meaning: '), (answer) => {
 					cardObj['sentence']['trans']['en'] = answer;
 					resolve()
 				})
@@ -120,15 +120,14 @@ if (option === 'add') {
 
 	const ask = async () => {
 		await hanzi.char();
-		await hanzi.pron();
-		await hanzi.transEN();
-		await hanzi.transPL();
 		await sentence.char();
+		await hanzi.pron();
 		await sentence.pron();
+		await hanzi.transEN();
 		await sentence.transEN();
+		await hanzi.transPL();
 		await sentence.transPL();
-		await catQuestion();
-
+		await catQuestion()
 		readlineI.close()
 		
 		cardObj.id = Math.floor(Math.random() * 100000);

@@ -118,5 +118,85 @@
     },
     "cat": "activities",
     "id": 23550
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to brush teeth",
+        "pl": "myć zęby"
+      },
+      "char": "刷牙",
+      "pron": "shua1 ya2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "After eating you must brush your teeth.",
+        "pl": "Musisz umyć zęby po jedzeniu."
+      },
+      "char": "你吃饭后必须刷牙。",
+      "pron": "ni3 chi1fan4 hou4 bi4xu1 shua1 ya2"
+    },
+    "cat": "activities",
+    "id": 81790
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to comb hair",
+        "pl": "czesać się"
+      },
+      "char": "梳头",
+      "pron": "shu1 tou2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Her husband has forgot to comb his hair again.",
+        "pl": "Jej mąż znowu zapomniał się uczesać."
+      },
+      "char": "她丈夫又忘了梳头。",
+      "pron": "ta1 zhang4fu you4 wang4 le shu1 tou2"
+    },
+    "cat": "activities",
+    "id": 46449
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get dressed",
+        "pl": "ubierać się"
+      },
+      "char": "穿衣服",
+      "pron": "chuan1 yi1fu"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He is already seven years old, he can get dressed by himself.",
+        "pl": "On ma już siedem lat, potrafi się sam ubrać."
+      },
+      "char": "他已经七岁了，可以自己穿衣服。",
+      "pron": "Ta1 yi3jing1 qi1 sui4le, ke3yi3 zi4ji3 chuan1 yi1fu."
+    },
+    "cat": "activities",
+    "id": 52734
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to eat breakfast",
+        "pl": "jeść śniadanie"
+      },
+      "char": "吃早饭",
+      "pron": "chi1 zao3fan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I did not have time to eat breakfast today.",
+        "pl": "Nie miałem dzisiaj czasu na zjedzenie śniadania."
+      },
+      "char": "我今天没有时间吃早饭。",
+      "pron": "wo3 jin1tian1 mei3 shi2jian1 chi1 zao3fan4"
+    },
+    "cat": "activities",
+    "id": 50920
   }
 ]
