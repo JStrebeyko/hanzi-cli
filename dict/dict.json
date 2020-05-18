@@ -198,5 +198,130 @@
     },
     "cat": "activities",
     "id": 50920
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to eat lunch",
+        "pl": "jeść obiad"
+      },
+      "char": "吃午饭",
+      "pron": "chi1 wu3fan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Students are eating lunch at a canteen.",
+        "pl": "Uczniowie jedzą obiad w stołówce."
+      },
+      "char": "学生在食堂吃午饭。",
+      "pron": "Xue2sheng1 zai4 shi2tang2 chi1 wu3fan4."
+    },
+    "cat": "activities",
+    "id": 41729
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to eat dinner",
+        "pl": "jeść kolację"
+      },
+      "char": "吃晚饭",
+      "pron": "chi1 wan3fan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What time do you eat dinner?",
+        "pl": "O której jecie kolację?"
+      },
+      "char": "你们几点吃晚饭？",
+      "pron": "Ni3men ji3 dian3 chi1 wan3fan4?"
+    },
+    "cat": "activities",
+    "id": 20380,
+    "timeAdded": "2020-05-18T10:22:47.087Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to start work",
+        "pl": "zaczynać pracę"
+      },
+      "char": "上班",
+      "pron": "shang4ban1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Every day I go to work by metro.",
+        "pl": "Codziennie jeżdżę do pracy metrem."
+      },
+      "char": "我每天坐地铁去上班。",
+      "pron": "Wo3 mei3 tian1 zuo4 di4tie3 qu4 shang4ban1."
+    },
+    "cat": "activities",
+    "id": 40786,
+    "timeAdded": "2020-05-18T10:32:04.096Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to finish work",
+        "pl": "kończyć pracę"
+      },
+      "char": "下班",
+      "pron": "xia4ban1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What are you doing tomorrow after work?",
+        "pl": "Co robisz jutro po pracy?"
+      },
+      "char": "你明天下班后做什么？",
+      "pron": "Ni3 ming2tian1 xia4ban1 hou4 zuo4 shen2me?"
+    },
+    "cat": "activities",
+    "id": 43208,
+    "timeAdded": "2020-05-18T10:36:42.593Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to return home",
+        "pl": "wracać do domu"
+      },
+      "char": "回家",
+      "pron": "hui2 jia1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Dad returns home at seven in the evening.",
+        "pl": "Tata wraca do domu o siódmej wieczorem."
+      },
+      "char": "爸爸晚上七点回家。",
+      "pron": "Ba4ba wan3shang qi1 dian3 hui2 jia1."
+    },
+    "cat": "activities",
+    "id": 84304,
+    "timeAdded": "2020-05-18T10:41:56.378Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to buy things",
+        "pl": "robić zakupy"
+      },
+      "char": "买东西",
+      "pron": "mai3 dong1xi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I plan to go shopping today in the afternoon.",
+        "pl": "Dziś po południu planuję iść na zakupy."
+      },
+      "char": "今天下午我打算去买东西。",
+      "pron": "Jin1tian1 xia4wu3 wo3 da3suan qu4 mai3 dong1xi."
+    },
+    "cat": "activities",
+    "id": 22998,
+    "timeAdded": "2020-05-18T11:33:39.424Z"
   }
 ]

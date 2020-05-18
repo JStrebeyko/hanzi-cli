@@ -30,7 +30,8 @@ if (option === 'add') {
 		}
 	}
 
-	const lastCat = json && json[json.lenght-1] ? json[json.length - 1].cat : 'color'
+	const lastCat = (json && json[json.lenght-1]) && json[json.length - 1].cat
+	console.log(json[json.length-1]);
 
 	const hanzi = {
 		char: () => {
@@ -53,7 +54,7 @@ if (option === 'add') {
 
 		transEN: () => {
 			return new Promise((resolve) => {
-				readlineI.question(chalk.yellow('Meaning: '), (answer) => {
+				readlineI.question(chalk.yellow('Character meaning: '), (answer) => {
 					cardObj['hanzi']['trans']['en'] = answer;
 					resolve()
 				})
@@ -62,7 +63,7 @@ if (option === 'add') {
 
 		transPL: () => {
 			return new Promise((resolve) => {
-				readlineI.question('Znaczenie: ', (answer) => {
+				readlineI.question('Znaczenie znaków: ', (answer) => {
 					cardObj['hanzi']['trans']['pl'] = answer;
 					resolve()
 				})
@@ -112,7 +113,7 @@ if (option === 'add') {
 	const catQuestion = () => {
 		return new Promise((resolve) => {
 			readlineI.question(`Category: `, (answer) => {
-				cardObj['cat'] = answer || lastCat;
+				cardObj['cat'] = answer;
 				resolve()
 			})
 		})
@@ -130,7 +131,10 @@ if (option === 'add') {
 		await catQuestion()
 		readlineI.close()
 		
+		// get the last category if not present:
+		cardObj.cat = cardObj.cat || lastCat;
 		cardObj.id = Math.floor(Math.random() * 100000);
+		cardObj.timeAdded = new Date();
 
 		console.log(cardObj)
 
