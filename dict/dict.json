@@ -323,5 +323,47 @@
     "cat": "activities",
     "id": 22998,
     "timeAdded": "2020-05-18T11:33:39.424Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to clean",
+        "pl": "sprzątać"
+      },
+      "char": "整理",
+      "pron": "zheng3li3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mama ordered me to clean my room.",
+        "pl": "Mama kazała mi sprzątnąć mój pokój."
+      },
+      "char": "妈妈让我整理我的卧室。",
+      "pron": "Ma1ma rang4 wo3 zheng3li3 wo3 de wo4shi4."
+    },
+    "cat": "activities",
+    "id": 35996,
+    "timeAdded": "2020-05-19T07:58:23.185Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to do the dishes",
+        "pl": "zmywać"
+      },
+      "char": "洗碗",
+      "pron": "xi3 wan3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Can you do the dishes?",
+        "pl": "Czy możesz pozmywać?"
+      },
+      "char": "你可以洗碗马？",
+      "pron": "Ni3 ke3yi3 xi3 wan3 ma?"
+    },
+    "cat": "activities",
+    "id": 75456,
+    "timeAdded": "2020-05-19T08:03:51.110Z"
   }
 ]

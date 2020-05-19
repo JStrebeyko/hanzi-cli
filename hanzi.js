@@ -132,7 +132,7 @@ if (option === 'add') {
 		readlineI.close()
 		
 		// get the last category if not present:
-		cardObj.cat = cardObj.cat || lastCat;
+		cardObj.cat = cardObj.cat === undefined && lastCat;
 		cardObj.id = Math.floor(Math.random() * 100000);
 		cardObj.timeAdded = new Date();
 
