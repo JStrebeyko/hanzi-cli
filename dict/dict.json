@@ -365,5 +365,47 @@
     "cat": "activities",
     "id": 75456,
     "timeAdded": "2020-05-19T08:03:51.110Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to wash oneself",
+        "pl": "myć się"
+      },
+      "char": "洗澡",
+      "pron": "xi3zao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Our older brother is always washing himself using cold water.",
+        "pl": "Nasz starszy brat zawsze się myje w zimnej wodzie."
+      },
+      "char": "我们哥哥总是用冷水洗澡。",
+      "pron": "Wo3men ge1ge zong3shi4 yong4 leng3shui3 xi3zao3."
+    },
+    "cat": "activities",
+    "id": 24939,
+    "timeAdded": "2020-05-20T11:21:55.927Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to wash clothes",
+        "pl": "prać ubrania"
+      },
+      "char": "洗衣服",
+      "pron": "xi3 yi1fu"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She hates doing laundry.",
+        "pl": "Ona nie znosi robić prania."
+      },
+      "char": "她讨厌洗衣服。",
+      "pron": "Ta1 tao3yan4 xi3 yi1fu."
+    },
+    "cat": "activities",
+    "id": 26360,
+    "timeAdded": "2020-05-20T11:32:35.721Z"
   }
 ]
