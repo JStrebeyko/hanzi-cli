@@ -407,5 +407,47 @@
     "cat": "activities",
     "id": 26360,
     "timeAdded": "2020-05-20T11:32:35.721Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to look, to see",
+        "pl": "patrzeć, widzieć"
+      },
+      "char": "看",
+      "pron": "kan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Does everyone see the character written on the blackboard?",
+        "pl": "Czy wszyscy widzą znaki napisane na tablicy?"
+      },
+      "char": "大家都看得见黑板上写的字马？",
+      "pron": "Da4jia1 dou1 kan4 de jian4 hei1ban3 shang4 xie3 de zi4 ma?"
+    },
+    "cat": "activities",
+    "id": 6195,
+    "timeAdded": "2020-05-21T15:08:52.180Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to sleep",
+        "pl": "spać"
+      },
+      "char": "睡觉",
+      "pron": "shui4jiao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My goes to sleep at least at ten in the evening.",
+        "pl": "Moje dziecko idzie spać dopiero o dziesiątej wieczór."
+      },
+      "char": "我的孩子晚上十点才睡觉。",
+      "pron": "Wo3 de hai2zi wan3shang shi2 dian3 cai2 shui4jiao4."
+    },
+    "cat": "activities",
+    "id": 65417,
+    "timeAdded": "2020-05-21T15:12:56.720Z"
   }
 ]
