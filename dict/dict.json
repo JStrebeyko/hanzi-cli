@@ -449,5 +449,47 @@
     "cat": "activities",
     "id": 65417,
     "timeAdded": "2020-05-21T15:12:56.720Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to speak",
+        "pl": "mówić"
+      },
+      "char": "说",
+      "pron": "shuo1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Please repeat it once more.",
+        "pl": "Proszę powtórzyć raz jeszcze."
+      },
+      "char": "请再说一遍。",
+      "pron": "Qing3 zai4 shuo1 yi1bian4."
+    },
+    "cat": "activities",
+    "id": 19268,
+    "timeAdded": "2020-05-22T12:46:44.603Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to hear",
+        "pl": "słyszeć"
+      },
+      "char": "听",
+      "pron": " ting1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I cannot hear what is he saying.",
+        "pl": "Nie słyszę, co on mówi."
+      },
+      "char": "我听不见他说什么。",
+      "pron": "Wo3 ting1 bu jian4 ta1 shuo1 shen2me."
+    },
+    "cat": "activities",
+    "id": 94710,
+    "timeAdded": "2020-05-22T12:50:29.922Z"
   }
 ]
