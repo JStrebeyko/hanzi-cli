@@ -491,5 +491,47 @@
     "cat": "activities",
     "id": 94710,
     "timeAdded": "2020-05-22T12:50:29.922Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to write",
+        "pl": "pisać"
+      },
+      "char": "写",
+      "pron": "xie3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Lao Wang wrote two books last year.",
+        "pl": "Lao Wang napisał dwie książki w zeszłym roku."
+      },
+      "char": "老王去年写了两本书。",
+      "pron": "Lao3 Wang2 qu4nian2 xie3 le liang3 ben3 shu1."
+    },
+    "cat": "activities",
+    "id": 40400,
+    "timeAdded": "2020-05-23T10:29:55.910Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to paint",
+        "pl": "rysować, malować"
+      },
+      "char": "画",
+      "pron": "hua4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Who painted this picture?",
+        "pl": "Kto namalował ten obraz?"
+      },
+      "char": "谁花了这幅画儿。",
+      "pron": "Shei2 hua4 le zhe4 fu2 huar4."
+    },
+    "cat": "activities",
+    "id": 29628,
+    "timeAdded": "2020-05-23T10:46:31.040Z"
   }
 ]
