@@ -533,5 +533,47 @@
     "cat": "activities",
     "id": 29628,
     "timeAdded": "2020-05-23T10:46:31.040Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to ask",
+        "pl": "pytać"
+      },
+      "char": "问",
+      "pron": "wen4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In case of questions, ask me right away.",
+        "pl": "W razie wątpliwości, pytaj mnie od razu."
+      },
+      "char": "要是有问题，就问我。",
+      "pron": "Yao4shi wen4ti2, jiu4 wen4 wo3."
+    },
+    "cat": "activities",
+    "id": 91091,
+    "timeAdded": "2020-05-24T18:05:48.924Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to wait",
+        "pl": "czekać"
+      },
+      "char": "等",
+      "pron": "deng3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Please wait a moment.",
+        "pl": "Proszę chwileczkę poczekać."
+      },
+      "char": "请稍等一下。",
+      "pron": "Qing3 shao1 deng3 yi1xia4."
+    },
+    "cat": "activities",
+    "id": 79670,
+    "timeAdded": "2020-05-24T18:08:00.003Z"
   }
 ]
