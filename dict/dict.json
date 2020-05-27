@@ -575,5 +575,131 @@
     "cat": "activities",
     "id": 79670,
     "timeAdded": "2020-05-24T18:08:00.003Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to help",
+        "pl": "pomagać"
+      },
+      "char": "帮助",
+      "pron": "bang1 zhu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Xiao Yun helps mom do the chores.",
+        "pl": "Xiao Yun pomaga mamie w domowych obowiązek."
+      },
+      "char": "小云帮助妈妈做家务。",
+      "pron": "Xiao3 Yun2 bang3zhu1 ma1ma zuo1 jia1wu4."
+    },
+    "cat": "activities",
+    "id": 50325,
+    "timeAdded": "2020-05-25T17:29:11.267Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to search for",
+        "pl": "szukać"
+      },
+      "char": "找",
+      "pron": "zhao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I am looking for teacher Wang.",
+        "pl": "Szukam nauczyciela Wang."
+      },
+      "char": "我赵王老师。",
+      "pron": "Wo3 zhao3 Wang2 lao3shi1."
+    },
+    "cat": "activities",
+    "id": 8883,
+    "timeAdded": "2020-05-25T19:36:15.700Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to meet",
+        "pl": "spotykać"
+      },
+      "char": "见面",
+      "pron": "jian4mian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What time are you meeting tomorrow?",
+        "pl": "O której się jutro spotykacie?"
+      },
+      "char": "你们明天几点见面？",
+      "pron": "Ni3men ming2tian1 ji3 dian3 jian4mian4."
+    },
+    "cat": "activities",
+    "id": 2171,
+    "timeAdded": "2020-05-27T11:16:44.223Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to call",
+        "pl": "dzwonić"
+      },
+      "char": "打电话",
+      "pron": "da3 dian4hua4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I will call you in the evening.",
+        "pl": "Zadzwonię do Ciebie wieczorem."
+      },
+      "char": "我晚上给你打电话。",
+      "pron": "Wo3 wan3shang gei3 ni3 da3 dian4hua4."
+    },
+    "cat": "activities",
+    "id": 31555,
+    "timeAdded": "2020-05-27T11:19:26.287Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "China",
+        "pl": "Chiny"
+      },
+      "char": "中国",
+      "pron": "Zhong1guo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This year we will travel China.",
+        "pl": "W tym roku jedziemy w podróż do Chin."
+      },
+      "char": "今年我们去中国旅游",
+      "pron": "Jin1nian2 wo3men qu4 Zhong1guo2 lu3you2."
+    },
+    "cat": "nationality",
+    "id": 41601,
+    "timeAdded": "2020-05-27T12:04:06.022Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Chinese",
+        "pl": "Chińczyk"
+      },
+      "char": "中国人",
+      "pron": "Zhong1guo2ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He is Chinese.",
+        "pl": "On jest Chińczykiem"
+      },
+      "char": "他是中国人。",
+      "pron": "Ta1 shi4 Zhong1guo2ren2."
+    },
+    "cat": "nationality",
+    "id": 37593,
+    "timeAdded": "2020-05-27T12:05:57.609Z"
   }
 ]
