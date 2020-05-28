@@ -701,5 +701,47 @@
     "cat": "nationality",
     "id": 37593,
     "timeAdded": "2020-05-27T12:05:57.609Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Poland",
+        "pl": "Polska"
+      },
+      "char": "波兰",
+      "pron": "Bo1lan2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Polish landscape is very beautiful.",
+        "pl": "Polskie krajobrazy są bardzo piękne."
+      },
+      "char": "波兰的风景很漂亮。",
+      "pron": "Bo1lan2 de feng1jing3 hen3 piao4liang."
+    },
+    "cat": "nationality",
+    "id": 29502,
+    "timeAdded": "2020-05-28T16:35:55.798Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Pole",
+        "pl": "Polak, Polka"
+      },
+      "char": "波兰人",
+      "pron": "Bo1lan2ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We are Poles.",
+        "pl": "Jesteśmy Polakami."
+      },
+      "char": "我们是波兰人。",
+      "pron": "Wo3men shi4 Bo1lan2ren2."
+    },
+    "cat": "nationality",
+    "id": 46646,
+    "timeAdded": "2020-05-28T16:51:46.085Z"
   }
 ]
