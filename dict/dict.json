@@ -743,5 +743,89 @@
     "cat": "nationality",
     "id": 46646,
     "timeAdded": "2020-05-28T16:51:46.085Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "England",
+        "pl": "Anglia"
+      },
+      "char": "英国",
+      "pron": "Ying1guo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His dad works in England",
+        "pl": "Jego tata pracuje w Anglii"
+      },
+      "char": "他爸爸在英国工作。",
+      "pron": "Ta1 ba4ba zai4 Ying1guo2 gong1zuo4."
+    },
+    "cat": "nationality",
+    "id": 57076,
+    "timeAdded": "2020-05-30T11:18:43.385Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "France",
+        "pl": "Francja"
+      },
+      "char": "法国",
+      "pron": "Fa3guo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They live in France.",
+        "pl": "Oni mieszkają we Francji."
+      },
+      "char": "他们住在法国。",
+      "pron": "Ta1men zhu4 zai4 Fa3guo2."
+    },
+    "cat": "nationality",
+    "id": 56099,
+    "timeAdded": "2020-05-30T11:20:58.551Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "French people",
+        "pl": "Francuz"
+      },
+      "char": "法国人",
+      "pron": "Fa3guo2ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My two good friends are French.",
+        "pl": "Moich dwóch dobrych przyjaciół jest Francuzami"
+      },
+      "char": "我的两个好朋友是法国人。",
+      "pron": "Wo3 de liang3 ge hao3 peng2you shi4 Fa3guo2ren2."
+    },
+    "cat": "nationality",
+    "id": 87517,
+    "timeAdded": "2020-05-30T11:25:02.555Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "English people",
+        "pl": "Anglik"
+      },
+      "char": "英国人",
+      "pron": "Ying1guo4ren4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "English people like to drink tea.",
+        "pl": "Anglicy lubią pić herbatę."
+      },
+      "char": "英国人喜欢喝茶。",
+      "pron": "Ying1guo4ren4 xi3huan he1 cha2."
+    },
+    "cat": "nationality",
+    "id": 2512,
+    "timeAdded": "2020-05-30T11:28:14.520Z"
   }
 ]
