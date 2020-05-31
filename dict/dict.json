@@ -693,7 +693,7 @@
     "sentence": {
       "trans": {
         "en": "He is Chinese.",
-        "pl": "On jest Chińczykiem"
+        "pl": "On jest Chińczykiem."
       },
       "char": "他是中国人。",
       "pron": "Ta1 shi4 Zhong1guo2ren2."
@@ -827,5 +827,47 @@
     "cat": "nationality",
     "id": 2512,
     "timeAdded": "2020-05-30T11:28:14.520Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Germany",
+        "pl": "Niemcy"
+      },
+      "char": "德国",
+      "pron": "De2guo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Germany is a country bordering with Poland.",
+        "pl": "Niemcy to kraj sąsiadujący z Polską."
+      },
+      "char": "德国是波兰的邻国。",
+      "pron": "De2guo2 shi4 Bo1lan2 de lin2guo2."
+    },
+    "cat": "nationality",
+    "id": 3513,
+    "timeAdded": "2020-05-31T16:21:35.821Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "German person",
+        "pl": "Niemiec"
+      },
+      "char": "德国人",
+      "pron": "De2guo2ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Is he German?",
+        "pl": "Czy on jest Niemcem?"
+      },
+      "char": "他书德国人马？",
+      "pron": "Ta1 shi4 De2guo2ren2 ma?"
+    },
+    "cat": "nationality",
+    "id": 41906,
+    "timeAdded": "2020-05-31T16:23:56.042Z"
   }
 ]
