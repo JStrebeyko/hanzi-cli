@@ -869,5 +869,47 @@
     "cat": "nationality",
     "id": 41906,
     "timeAdded": "2020-05-31T16:23:56.042Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Russia",
+        "pl": "Rosja"
+      },
+      "char": "俄罗斯",
+      "pron": "E4luo2si1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They are all exchange students from Russia.",
+        "pl": "Oni są studentami z Rosji."
+      },
+      "char": "他们都是俄罗斯的留学生。",
+      "pron": "Ta1men dou3 shi4 E4luo2si1 de liu2xie2sheng1."
+    },
+    "cat": "nationality",
+    "id": 40815,
+    "timeAdded": "2020-06-01T17:52:51.729Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Russian",
+        "pl": "Rosjanin"
+      },
+      "char": "俄罗斯人",
+      "pron": "E4luo2si1ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My neighbour is Russian.",
+        "pl": "Mój sąsiad to Rosjanin."
+      },
+      "char": "我的邻居是俄罗斯人。",
+      "pron": "Wo3 de lin2ju1 shi4 E4luo2si1ren2."
+    },
+    "cat": "nationality",
+    "id": 91260,
+    "timeAdded": "2020-06-01T17:55:46.797Z"
   }
 ]
