@@ -953,5 +953,47 @@
     "cat": "nationality",
     "id": 14315,
     "timeAdded": "2020-06-02T14:49:40.473Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Italy",
+        "pl": "Włochy"
+      },
+      "char": "意大利",
+      "pron": "Yi4da4li4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My classmates do not know where Italy is.",
+        "pl": "Moi koledzy z klasy nie wiedzą, gdzie są Włochy"
+      },
+      "char": "我的同学不知道意大利在那儿。",
+      "pron": "Wo3 de tong2xue2 bu zhi1dao4 Yi4da4li4 zai4 nar3."
+    },
+    "cat": "nationality",
+    "id": 71919,
+    "timeAdded": "2020-06-03T16:19:03.286Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Italian",
+        "pl": "Włoch, Włoszka"
+      },
+      "char": "意大利人",
+      "pron": "Yi4da4li4ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Their mom is Italian.",
+        "pl": "Ich mama jest Włoszką."
+      },
+      "char": "他们妈妈是意大利人。",
+      "pron": "Ta1men ma1ma shi4 Yi4da4li4ren2."
+    },
+    "cat": "nationality",
+    "id": 89628,
+    "timeAdded": "2020-06-03T16:21:02.722Z"
   }
 ]
