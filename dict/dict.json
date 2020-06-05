@@ -995,5 +995,89 @@
     "cat": "nationality",
     "id": 89628,
     "timeAdded": "2020-06-03T16:21:02.722Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "United States",
+        "pl": "Stany Zjednoczone"
+      },
+      "char": "美国",
+      "pron": "Mei3guo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She is studying in United States.",
+        "pl": "Ona studiuje w Stanach Zjednoczonych."
+      },
+      "char": "她在美国留学。",
+      "pron": "Ta1 zai4 Mei3guo2 liu2xue2."
+    },
+    "cat": "nationality",
+    "id": 10292,
+    "timeAdded": "2020-06-05T16:51:10.028Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "American",
+        "pl": "Amerykanin"
+      },
+      "char": "美国人",
+      "pron": "Mei3guo2ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I am not American.",
+        "pl": "Nie jestem Amerykaninem."
+      },
+      "char": "我不是美国人。",
+      "pron": "Wo3 bu4 shi4 Mei3guo2ren2."
+    },
+    "cat": "nationality",
+    "id": 35679,
+    "timeAdded": "2020-06-05T16:53:19.466Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Japan",
+        "pl": "Japonia"
+      },
+      "char": "日本",
+      "pron": "Ri4ben3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Next week his mom goes to Japan for work.",
+        "pl": "W następnym tygodniu jego mama jedzie służbowo do Japonii."
+      },
+      "char": "下个星期他妈妈去日本出差。",
+      "pron": "Xa4 ge xing1qi1 ta1 ma1ma qu4 Ri4ben3 chu1chai1."
+    },
+    "cat": "nationality",
+    "id": 49993,
+    "timeAdded": "2020-06-05T16:56:07.551Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Japanese",
+        "pl": "Japończyk"
+      },
+      "char": "日本人",
+      "pron": "Ri4ben3ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A lot of Japanese are learning chinese.",
+        "pl": "Wielu Japończyków uczy się chińskiego."
+      },
+      "char": "很多日本人学习汉语。",
+      "pron": "Hen3 duo1 Ri4ben3ren2 xue2xi2 Han4yu3."
+    },
+    "cat": "nationality",
+    "id": 64352,
+    "timeAdded": "2020-06-05T16:58:30.091Z"
   }
 ]
