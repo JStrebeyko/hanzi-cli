@@ -1079,5 +1079,89 @@
     "cat": "nationality",
     "id": 64352,
     "timeAdded": "2020-06-05T16:58:30.091Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Australia",
+        "pl": "Australia"
+      },
+      "char": "澳大利亚",
+      "pron": "Ao4da4li4ya4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Australia is a very beautiful country.",
+        "pl": "Australia to bardzo piękny kraj."
+      },
+      "char": "澳大利亚是很美丽国家。",
+      "pron": "Ao4da4li4ya4 shi4 hen3 mei3li4 guo2jia1."
+    },
+    "cat": "nationality",
+    "id": 15960,
+    "timeAdded": "2020-06-07T20:30:54.155Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "Australian",
+        "pl": "Australijczyk, Australijka"
+      },
+      "char": "澳大利亚人",
+      "pron": "Ao4da4li4ya4ren2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I heard his wife is Australian.",
+        "pl": "Słyszałem, że jego żona jest Australijką."
+      },
+      "char": "我听说过他妻子是澳大利亚人。",
+      "pron": "Wo3 ting1shuo ta1 qi1zi shi4 Ao4da4li4ya4ren2."
+    },
+    "cat": "nationality",
+    "id": 77431,
+    "timeAdded": "2020-06-07T20:35:34.742Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "head",
+        "pl": "głowa"
+      },
+      "char": "头",
+      "pron": "tou2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My head hurts.",
+        "pl": "Boli mnie głowa."
+      },
+      "char": "我头疼。",
+      "pron": "Wo3 tou2teng2."
+    },
+    "cat": "body",
+    "id": 96914,
+    "timeAdded": "2020-06-07T20:36:52.530Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "hair",
+        "pl": "włosy"
+      },
+      "char": "头发",
+      "pron": "tou2fa"
+    },
+    "sentence": {
+      "trans": {
+        "en": "That long haired boy is our classmate.",
+        "pl": "Tamten długowłosy chłopak jest naszym kolegą z klasy."
+      },
+      "char": "那个长头发的男孩儿是我们的同学。",
+      "pron": "Na4 ge chang2 tou2fa de nan2hair2 shi4 wo3men de tong2xue2."
+    },
+    "cat": "body",
+    "id": 94804,
+    "timeAdded": "2020-06-07T20:40:32.299Z"
   }
 ]
