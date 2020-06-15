@@ -1163,5 +1163,89 @@
     "cat": "body",
     "id": 94804,
     "timeAdded": "2020-06-07T20:40:32.299Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "face",
+        "pl": "twarz"
+      },
+      "char": "脸",
+      "pron": "lian3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I remember his face, but I don't remember his name.",
+        "pl": "Pamiętam jego twarz, ale nie pamiętam jego imienia."
+      },
+      "char": "我记得他的脸，但是不记得他的名字。",
+      "pron": "Wo3 ji4de ta1 de lian3, dan4shi4 bu4 ji4de ta1 de ming2zi."
+    },
+    "cat": "body",
+    "id": 34062,
+    "timeAdded": "2020-06-15T11:29:01.418Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "eye",
+        "pl": "oko"
+      },
+      "char": "眼睛",
+      "pron": "yan3jing"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To open eyes. To close eyes.",
+        "pl": "Otwierać oczy. Zamykać oczy."
+      },
+      "char": "睁开眼睛。 闭上眼睛。",
+      "pron": "zheng1kai1 yan3jing. bi4shang yan3jing."
+    },
+    "cat": "body",
+    "id": 44067,
+    "timeAdded": "2020-06-15T11:32:40.244Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "ear",
+        "pl": "ucho"
+      },
+      "char": "耳朵",
+      "pron": "er3duo"
+    },
+    "sentence": {
+      "trans": {
+        "en": "If your ear hurts, you should go see a doctor.",
+        "pl": "Jeżeli boli cię ucho, powinieneś iść do lekarza."
+      },
+      "char": "如果你耳朵疼， 你应该去看病。",
+      "pron": "Ru2guo3 ni3 er3duo teng2, ni3 ying1gai1 qu4 kan4bing4."
+    },
+    "cat": "body",
+    "id": 81514,
+    "timeAdded": "2020-06-15T11:35:27.530Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "nose",
+        "pl": "nos"
+      },
+      "char": "鼻子",
+      "pron": "bi2zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to blow one's nose",
+        "pl": "dmuchać nos"
+      },
+      "char": "擤鼻子",
+      "pron": "xing3 bi2zi"
+    },
+    "cat": "body",
+    "id": 80637,
+    "timeAdded": "2020-06-15T11:37:41.620Z"
   }
 ]
