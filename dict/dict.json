@@ -1247,5 +1247,89 @@
     "cat": "body",
     "id": 80637,
     "timeAdded": "2020-06-15T11:37:41.620Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "mouth",
+        "pl": "usta, buzia"
+      },
+      "char": "嘴巴",
+      "pron": "zui3ba"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To open one's mouth.",
+        "pl": "otwierać usta"
+      },
+      "char": "张开嘴巴。",
+      "pron": "Zhang1kai1 zui3ba."
+    },
+    "cat": "body",
+    "id": 33059,
+    "timeAdded": "2020-06-16T12:33:05.713Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "tooth",
+        "pl": "ząb"
+      },
+      "char": "牙",
+      "pron": "ya2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To extract a tooth.",
+        "pl": "Wyrywać ząb."
+      },
+      "char": "拔牙",
+      "pron": "ba2 ya2"
+    },
+    "cat": "body",
+    "id": 24377,
+    "timeAdded": "2020-06-16T12:35:19.625Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "chest",
+        "pl": "klatka piersiowa"
+      },
+      "char": "胸",
+      "pron": "xiong1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Grandma is staying in hospital because of pain in her chest.",
+        "pl": "Babcia jest w szpitalu z powodu bólu w klatce piersiowej."
+      },
+      "char": "奶奶因感到胸痛而住院。",
+      "pron": "Nai3nai yin1 gan3dao4 xiong1 tong4 er2 zhu4yuan4."
+    },
+    "cat": "body",
+    "id": 27650,
+    "timeAdded": "2020-06-16T12:38:31.783Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "hand",
+        "pl": "ręka"
+      },
+      "char": "手",
+      "pron": "shou3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Quickly go and wash your hands.",
+        "pl": "Idź szybko umyć ręce."
+      },
+      "char": "快去洗手巴。",
+      "pron": "Kuai4 qu4 xi3 shou3 ba."
+    },
+    "cat": "body",
+    "id": 58534,
+    "timeAdded": "2020-06-16T12:40:43.622Z"
   }
 ]
