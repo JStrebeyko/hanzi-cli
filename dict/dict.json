@@ -1331,5 +1331,89 @@
     "cat": "body",
     "id": 58534,
     "timeAdded": "2020-06-16T12:40:43.622Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "leg",
+        "pl": "noga"
+      },
+      "char": "腿",
+      "pron": "tui3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Two years ago my younger brother broke his leg.",
+        "pl": "Mój młodszy brat dwa lata temu złamał nogę."
+      },
+      "char": "我弟弟两年前断了一只腿。",
+      "pron": "Wo3 di4di liang3 nian2 qian2 duan4 le yi1 zhi1 tui3."
+    },
+    "cat": "body",
+    "id": 1094,
+    "timeAdded": "2020-06-18T07:40:02.251Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "foot",
+        "pl": "stopa"
+      },
+      "char": "脚",
+      "pron": "jiao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He cannot buy fitting shoes, because he has very small feet.",
+        "pl": "Nie może kupić pasujących butów, ponieważ ma bardzo małe stopy."
+      },
+      "char": "他买不到合适的鞋，因为他的脚很小。",
+      "pron": "Ta1 mai3 bu dao4 he2shi4 de xie2, yin1wei4 ta1 de jiao3 hen3 xiao3."
+    },
+    "cat": "body",
+    "id": 395,
+    "timeAdded": "2020-06-18T07:45:28.755Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "finger",
+        "pl": "palec u ręki"
+      },
+      "char": "手指",
+      "pron": "shou3zhi3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What happened to your finger?",
+        "pl": "Co ci się stało w palec?"
+      },
+      "char": "你的手指怎么了？",
+      "pron": "Ni3 de shou3zhi3 zen3me le?"
+    },
+    "cat": "body",
+    "id": 76918,
+    "timeAdded": "2020-06-18T07:47:51.424Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "toe",
+        "pl": "palec u stopy"
+      },
+      "char": "脚趾",
+      "pron": "jiao3zhi3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "You stomped on my toe again!",
+        "pl": "Znowu nadepnąłeś mi na palec!"
+      },
+      "char": "你又踩了我的脚趾!",
+      "pron": "Ni3 you4 cai3 le wo3 de jiao3zhi3!"
+    },
+    "cat": "body",
+    "id": 34502,
+    "timeAdded": "2020-06-18T07:51:34.757Z"
   }
 ]
