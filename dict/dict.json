@@ -1415,5 +1415,89 @@
     "cat": "body",
     "id": 34502,
     "timeAdded": "2020-06-18T07:51:34.757Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "stomach",
+        "pl": "brzuch"
+      },
+      "char": "肚子",
+      "pron": "du4zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "That kid ('s belly) got so hungry it started crying.",
+        "pl": "Tamto dziecko (jego brzuszek) stał się tak głodny, że zaczęło płakać."
+      },
+      "char": "那个孩子肚子饿得哭起来了。",
+      "pron": "Na4 ge hai2zi du4zi e4 de ku1 qi3lai2 le."
+    },
+    "cat": "body",
+    "id": 13453,
+    "timeAdded": "2020-06-19T13:10:47.374Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "back",
+        "pl": "plecy"
+      },
+      "char": "背",
+      "pron": "bei4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Grandfather's back hurts terribly.",
+        "pl": "Dziadka strasznie bolą plecy"
+      },
+      "char": "爷爷背疼得很厉害。",
+      "pron": "Ye2ye bei4 teng2 de hen3 li4hai."
+    },
+    "cat": "body",
+    "id": 14027,
+    "timeAdded": "2020-06-19T13:14:38.361Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "clothes",
+        "pl": "ubrania"
+      },
+      "char": "衣服",
+      "pron": "yi1fu"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Under the bed there is a lot of dirty clothes.",
+        "pl": "Pod łóżkiem jest dużo brudnych ubrań."
+      },
+      "char": "床下有很多脏衣服。",
+      "pron": "Chiang2 xia4 you3 hen3 duo1 zang1 yi1fu."
+    },
+    "cat": "body",
+    "id": 96715,
+    "timeAdded": "2020-06-19T13:17:27.179Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "pants",
+        "pl": "spodnie"
+      },
+      "char": "裤子",
+      "pron": "ku4zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The pants mom bought me are too tight.",
+        "pl": "Spodnie, które kupiła mi mama, są za ciasne."
+      },
+      "char": "妈妈给我买的裤子太紧了。",
+      "pron": "Ma1ma gei3 wo3 mai3 de ku4zi tai4 jin3 le."
+    },
+    "cat": "body",
+    "id": 32897,
+    "timeAdded": "2020-06-19T13:20:21.501Z"
   }
 ]
