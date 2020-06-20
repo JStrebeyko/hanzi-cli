@@ -1475,7 +1475,7 @@
       "char": "床下有很多脏衣服。",
       "pron": "Chiang2 xia4 you3 hen3 duo1 zang1 yi1fu."
     },
-    "cat": "body",
+    "cat": "clothes",
     "id": 96715,
     "timeAdded": "2020-06-19T13:17:27.179Z"
   },
@@ -1496,8 +1496,92 @@
       "char": "妈妈给我买的裤子太紧了。",
       "pron": "Ma1ma gei3 wo3 mai3 de ku4zi tai4 jin3 le."
     },
-    "cat": "body",
+    "cat": "clothes",
     "id": 32897,
     "timeAdded": "2020-06-19T13:20:21.501Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "skirt",
+        "pl": "spódnica"
+      },
+      "char": "裙子",
+      "pron": "qun2zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She often wears a skirt.",
+        "pl": "Ona często nosi spódnicę."
+      },
+      "char": "他常常穿裙子。",
+      "pron": "Ta1 chang2chang2 chuan1 qun2zi."
+    },
+    "cat": "clothes",
+    "id": 37078,
+    "timeAdded": "2020-06-20T18:47:07.528Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "dress",
+        "pl": "sukienka"
+      },
+      "char": "连衣裙",
+      "pron": "lian2yi1qun2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In this dress you look exceptionally sexy.",
+        "pl": "W tej sukience wyglądasz wyjątkowo pociągająco."
+      },
+      "char": "你穿着这件连衣裙非常性感。",
+      "pron": "Ni3 chuan1zhe zhe4 jian4 lian2yi1qun2 fei1chang2 zing4gan3."
+    },
+    "cat": "clothes",
+    "id": 92229,
+    "timeAdded": "2020-06-20T18:50:27.159Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "t-shirt",
+        "pl": "tiszert"
+      },
+      "char": "Ｔ恤 ",
+      "pron": "t-xu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "That girl in a pink t-shirt is my younger sister.",
+        "pl": "Ta dziewczyna w różowym tiszercie to moja młodsza siostra."
+      },
+      "char": "那个穿粉红色Ｔ恤 的女孩子是我妹妹。",
+      "pron": "Na3 ge chuan1 fen3hong2se4 t-xu4 de nu3hair2 shi wo3 mei4mei."
+    },
+    "cat": "clothes",
+    "id": 9596,
+    "timeAdded": "2020-06-20T18:56:36.988Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "shirt",
+        "pl": "koszula"
+      },
+      "char": "衬衫",
+      "pron": "chen4shan1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A red shirt and a pink tie do not go together well。",
+        "pl": "Czerwona koszula i różowy krawat nie pasują do siebie."
+      },
+      "char": "红色的衬衫和粉红色的领带不相配。",
+      "pron": "Hong2se4 de chen4shan1 he2 fen3hong2se4 de ling3dai4 bu4 xiang1pei4."
+    },
+    "cat": "clothes",
+    "id": 96821,
+    "timeAdded": "2020-06-20T19:00:47.092Z"
   }
 ]
