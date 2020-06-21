@@ -1583,5 +1583,89 @@
     "cat": "clothes",
     "id": 96821,
     "timeAdded": "2020-06-20T19:00:47.092Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "sweater",
+        "pl": "sweter"
+      },
+      "char": "毛衣",
+      "pron": "mao2yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Can I try this red sweater on?",
+        "pl": "Czy mogę przymierzyć ten czerwony sweter?"
+      },
+      "char": "我可以试穿这件红色的毛衣吗？",
+      "pron": "Wo3 ke3yi1 shi4chuan1 zhe4 jian4 hong2se4 de mao2yo1 ma?"
+    },
+    "cat": "clothes",
+    "id": 41422,
+    "timeAdded": "2020-06-21T16:14:07.252Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "suit",
+        "pl": "garnitur"
+      },
+      "char": "西装",
+      "pron": "xi1zhuang1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I need to wear suit to work.",
+        "pl": "Muszę nosić garnitur do pracy."
+      },
+      "char": "我上班得穿西装。",
+      "pron": "Wo3 shang4ban1 dei3 chuan1 xi1zhuang1."
+    },
+    "cat": "clothes",
+    "id": 88694,
+    "timeAdded": "2020-06-21T17:03:56.708Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "jacket",
+        "pl": "kurtka"
+      },
+      "char": "夹克",
+      "pron": "jia2ke4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Leather jackets right now are very trendy.",
+        "pl": "Skórzane kurtki są obecnie bardzo modne."
+      },
+      "char": "皮夹可现在很时髦。",
+      "pron": "Pi2 jia2ke4 xian4zai4 hen3 shi1mao1."
+    },
+    "cat": "clothes",
+    "id": 31253,
+    "timeAdded": "2020-06-21T17:06:15.112Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "coat",
+        "pl": "płaszcz"
+      },
+      "char": "大衣",
+      "pron": "da4yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This coat is too big for me.",
+        "pl": "Ten płaszcz jest dla mnie za duży."
+      },
+      "char": "这件大以对我太大了。",
+      "pron": "Zhe4 jian4 da4yi1 dui4 wo3 tai4 da4 le."
+    },
+    "cat": "clothes",
+    "id": 60971,
+    "timeAdded": "2020-06-21T17:08:30.573Z"
   }
 ]
