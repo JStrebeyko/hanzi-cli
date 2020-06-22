@@ -1667,5 +1667,89 @@
     "cat": "clothes",
     "id": 60971,
     "timeAdded": "2020-06-21T17:08:30.573Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "pijamas",
+        "pl": "piżama"
+      },
+      "char": "睡衣",
+      "pron": "shui4yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I would like to buy pijamas.",
+        "pl": "Chciałbym kupić piżamę."
+      },
+      "char": "我想买睡衣。",
+      "pron": "Wo3 xiang3 mai3 shui4yi1."
+    },
+    "cat": "clothes",
+    "id": 69676,
+    "timeAdded": "2020-06-22T12:44:25.169Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "socks",
+        "pl": "skarpetka"
+      },
+      "char": "袜子",
+      "pron": "wa4zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Xiao Li put on the socks inside out.",
+        "pl": "Xiao Li założył sparpetki na lewą stronę."
+      },
+      "char": "小李把袜子穿反了。",
+      "pron": "Xiao3 Li3 ba3 wa4zi chuan1fan3 le."
+    },
+    "cat": "clothes",
+    "id": 11746,
+    "timeAdded": "2020-06-22T12:48:03.362Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "underwear",
+        "pl": "bielizna"
+      },
+      "char": "内衣",
+      "pron": "nei4yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "How much does this underwear cost?",
+        "pl": "Ile kosztuje ten zestaw bielizny?"
+      },
+      "char": "这套内衣多少钱？",
+      "pron": "Zhe4 tao4 nei4yi1 duo1shao qian2?"
+    },
+    "cat": "clothes",
+    "id": 8845,
+    "timeAdded": "2020-06-22T12:50:41.416Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "shoes",
+        "pl": "buty"
+      },
+      "char": "鞋",
+      "pron": "xie2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Whose are those shoes?",
+        "pl": "Czyje są te buty?"
+      },
+      "char": "这双鞋是谁的？",
+      "pron": "Zhe4 shuang1 xie2 shi4 shei2 de?"
+    },
+    "cat": "clothes",
+    "id": 31229,
+    "timeAdded": "2020-06-22T12:52:43.332Z"
   }
 ]
