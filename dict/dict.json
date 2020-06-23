@@ -1751,5 +1751,89 @@
     "cat": "clothes",
     "id": 31229,
     "timeAdded": "2020-06-22T12:52:43.332Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "scarf",
+        "pl": "szal"
+      },
+      "char": "围巾",
+      "pron": "wei2jin1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mom is wearing a silk scarf.",
+        "pl": "Mama ma na sobie jedwabny szal."
+      },
+      "char": "妈妈带着一条丝绸围巾。",
+      "pron": "Ma1ma dai4zhe yi1 tiao2 si1chou2 wei2jin1."
+    },
+    "cat": "clothes",
+    "id": 6151,
+    "timeAdded": "2020-06-23T17:58:47.801Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "hat",
+        "pl": "czapka"
+      },
+      "char": "帽子",
+      "pron": "mao4zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The hats that grandma wears are truly bizarre!",
+        "pl": "Kapelusze, które nosi babcia, są naprawdę dziwaczne!"
+      },
+      "char": "外婆戴的帽子真奇怪！",
+      "pron": "Wai4po2 dai4 de mao4zi zhen1 qi2quai4."
+    },
+    "cat": "clothes",
+    "id": 40529,
+    "timeAdded": "2020-06-23T18:02:22.323Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "gloves",
+        "pl": "rękawiczki"
+      },
+      "char": "手套",
+      "pron": "shou3tao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "It is very cold today, don't forget to put on some gloves.",
+        "pl": "dzisiaj jest zimno, nie zapomnij założyć rękawiczek."
+      },
+      "char": "今天天气很冷，别忘戴上手套。",
+      "pron": "Jin1tian1 tian1qi4 hen3 leng3, bie2 wang4 dai4shang shou3tao4."
+    },
+    "cat": "clothes",
+    "id": 44143,
+    "timeAdded": "2020-06-23T18:05:04.718Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "tie",
+        "pl": "krawat"
+      },
+      "char": "领带",
+      "pron": "ling3dai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to tie a tie",
+        "pl": "wiązać krawat"
+      },
+      "char": "系领带",
+      "pron": "ji4 ling3dai4"
+    },
+    "cat": "clothes",
+    "id": 44226,
+    "timeAdded": "2020-06-23T18:06:51.844Z"
   }
 ]
