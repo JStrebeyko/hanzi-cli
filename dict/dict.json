@@ -1835,5 +1835,68 @@
     "cat": "clothes",
     "id": 44226,
     "timeAdded": "2020-06-23T18:06:51.844Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "belt",
+        "pl": "pasek"
+      },
+      "char": "腰带",
+      "pron": "yao1dai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Xiao Gao does not like wearing a belt.",
+        "pl": "Xiao Gao nie lubi nosić paska."
+      },
+      "char": "小高不喜欢系腰带。",
+      "pron": "Xiao3 Gao1 bu4 xi3huan ji4 yao1dai4."
+    },
+    "cat": "clothes",
+    "id": 60163,
+    "timeAdded": "2020-06-24T12:51:45.961Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "glasses",
+        "pl": "okulary"
+      },
+      "char": "眼镜",
+      "pron": "yan3jing4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He again cannot find the glasses.",
+        "pl": "On znowu nie może znaleźć okularów."
+      },
+      "char": "他又找不到眼镜。",
+      "pron": "Ta1 you4 zhao3 bu dao4 yan3jing4."
+    },
+    "cat": "clothes",
+    "id": 83696,
+    "timeAdded": "2020-06-24T12:54:29.178Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "handbag",
+        "pl": "torebka"
+      },
+      "char": "手提包",
+      "pron": "shou3ti2bao1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My handbag has been stolen.",
+        "pl": "Moja torebka została skradziona."
+      },
+      "char": "我的手提包被偷走了。",
+      "pron": "Wo3 de shou3ti2bao1 bei4 tou1zou3 le."
+    },
+    "cat": "clothes",
+    "id": 51775,
+    "timeAdded": "2020-06-24T12:56:37.839Z"
   }
 ]
