@@ -1898,5 +1898,68 @@
     "cat": "clothes",
     "id": 51775,
     "timeAdded": "2020-06-24T12:56:37.839Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "umbrella",
+        "pl": "parasol"
+      },
+      "char": "雨伞",
+      "pron": "yu3san3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Gradpa forgot to take an umbrella.",
+        "pl": "Dziadek zapomniał zabrać parasola."
+      },
+      "char": "爷爷忘了带雨伞了。",
+      "pron": "Ye2ye wang4 le dai4 yu3san3 le."
+    },
+    "cat": "clothes",
+    "id": 4041,
+    "timeAdded": "2020-06-26T14:04:27.839Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "watch",
+        "pl": "zegarek"
+      },
+      "char": "手表",
+      "pron": "shou3biao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He cannot afford such an expensive watch.",
+        "pl": "Nie stać go na tak drogi zegarek."
+      },
+      "char": "他买不起那么贵手表。",
+      "pron": "Ta1 mai3 bu qi3 na4me gui4 de shou3biao3."
+    },
+    "cat": "clothes",
+    "id": 97310,
+    "timeAdded": "2020-06-26T14:07:06.808Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "necklace",
+        "pl": "naszyjnik"
+      },
+      "char": "项链",
+      "pron": "xiang4lian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She is wearing a pearl necklace.",
+        "pl": "Ona ma na sobie naszyjnik z pereł"
+      },
+      "char": "她戴着真主项链。",
+      "pron": "Ta1 dai4zhe zhen1zhu1 xiang4lian4."
+    },
+    "cat": "clothes",
+    "id": 53423,
+    "timeAdded": "2020-06-26T14:10:21.355Z"
   }
 ]
