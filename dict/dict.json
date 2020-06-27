@@ -1961,5 +1961,47 @@
     "cat": "clothes",
     "id": 53423,
     "timeAdded": "2020-06-26T14:10:21.355Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "ring",
+        "pl": "pierścionek"
+      },
+      "char": "戒指",
+      "pron": "jie4zhi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Her diamong ring is surely terribly expensive.",
+        "pl": "Jej diamentowy pierścionek jest z pewnością strasznie drogi."
+      },
+      "char": "她的钻石戒指一定贵得要命。",
+      "pron": "Ta1 de zuan4shi2 jie4zhi yi1ding4 gui4 de yao4ming4."
+    },
+    "cat": "clothes",
+    "id": 46713,
+    "timeAdded": "2020-06-27T14:59:14.693Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "bracelet",
+        "pl": "bransoletka"
+      },
+      "char": "手镯",
+      "pron": "shou3zhuo2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This bracelet is his present for mom.",
+        "pl": "Ta bransoletka to jego prezent dla mamy."
+      },
+      "char": "这只手镯是他送给妈妈的礼物。",
+      "pron": "Zhe4 zhi1 shou3zhuo2 shi4 ta1 song4gei3 ma1ma de li3wu4."
+    },
+    "cat": "clothes",
+    "id": 17744,
+    "timeAdded": "2020-06-27T15:03:00.026Z"
   }
 ]
