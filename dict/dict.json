@@ -2003,5 +2003,47 @@
     "cat": "clothes",
     "id": 17744,
     "timeAdded": "2020-06-27T15:03:00.026Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "earring",
+        "pl": "kolczyk"
+      },
+      "char": "耳环",
+      "pron": "er3huan2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I lost an earring.",
+        "pl": "Zgubiłam kolczyk."
+      },
+      "char": "我丢了一只耳环。",
+      "pron": "Wo3 diu1 le yi1 zhi1 er3huan2."
+    },
+    "cat": "clothes",
+    "id": 91240,
+    "timeAdded": "2020-06-28T16:19:59.946Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to wear, to put on",
+        "pl": "nosić, zakładać"
+      },
+      "char": "穿",
+      "pron": "chuan1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To wear clothes, to wear shoes.",
+        "pl": "Nosić/zakładać ubranie, nosić/zakładać buty. "
+      },
+      "char": "穿衣服，穿鞋",
+      "pron": "Chuan1 yi1fu, chuan1 xie2."
+    },
+    "cat": "clothes",
+    "id": 79401,
+    "timeAdded": "2020-06-28T16:22:05.793Z"
   }
 ]
