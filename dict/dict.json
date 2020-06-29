@@ -2039,11 +2039,74 @@
         "en": "To wear clothes, to wear shoes.",
         "pl": "Nosić/zakładać ubranie, nosić/zakładać buty. "
       },
-      "char": "穿衣服，穿鞋",
+      "char": "穿衣服，穿鞋。",
       "pron": "Chuan1 yi1fu, chuan1 xie2."
     },
     "cat": "clothes",
     "id": 79401,
     "timeAdded": "2020-06-28T16:22:05.793Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to take off",
+        "pl": "zdejmować"
+      },
+      "char": "脱",
+      "pron": "tuo1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To take off clothes, to take off shoes.",
+        "pl": "Zdejmować ubranie, zdejmować buty."
+      },
+      "char": "脱衣服，脱鞋。",
+      "pron": "Tuo1 yi1fu, tuo1 xie2."
+    },
+    "cat": "clothes",
+    "id": 99286,
+    "timeAdded": "2020-06-29T16:55:22.520Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to put on, to wear (about accessories)",
+        "pl": "nosić, zakładać (o dodatkach)"
+      },
+      "char": "戴",
+      "pron": "dai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To wear/to put on a scarf, to wear/to put on a necklace.",
+        "pl": "nosić/zakładać szalić, nosić/zakładać naszyjnik"
+      },
+      "char": "戴围巾，戴项链。",
+      "pron": "Dai4 wei2jin1, dai4 xiang4lian4."
+    },
+    "cat": "clothes",
+    "id": 69699,
+    "timeAdded": "2020-06-29T17:02:30.137Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "(upper garment classificator)",
+        "pl": "(klasyfikator do ubrań powyżej pasa)"
+      },
+      "char": "件",
+      "pron": "jian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I want to buy a blue shirt.",
+        "pl": "Chcę kupić niebieską koszulę."
+      },
+      "char": "我想买一件蓝色的衬衫。",
+      "pron": "Wo3 xiang3 mai3 yi1 jian4 lan2se4 de chen4shan1."
+    },
+    "cat": "clothes",
+    "id": 13852,
+    "timeAdded": "2020-06-29T17:05:54.863Z"
   }
 ]
