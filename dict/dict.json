@@ -2108,5 +2108,47 @@
     "cat": "clothes",
     "id": 13852,
     "timeAdded": "2020-06-29T17:05:54.863Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a pair (classificator)",
+        "pl": "para (klasyfikator)"
+      },
+      "char": "双",
+      "pron": "shuang1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "These socks are too small.",
+        "pl": "Te skarpetki są za małe."
+      },
+      "char": "这双袜子太小了。",
+      "pron": "Zhe4 shuang1 wa4zi tai4 xiao3 le."
+    },
+    "cat": "clothes",
+    "id": 8611,
+    "timeAdded": "2020-06-30T17:22:33.750Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "(bottom garment classificator)",
+        "pl": "(klasyfikator dla ubrań poniżej pasa)"
+      },
+      "char": "条",
+      "pron": "tiao2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "That skirt is adequate for playing tennis.",
+        "pl": "Ta spódnica jest odpowiednia do gry w tenisa."
+      },
+      "char": "那条裙子适合打网球。",
+      "pron": "Na4 tiao2 qun2zi shi4he2 da3 wang3qiu2."
+    },
+    "cat": "clothes",
+    "id": 29017,
+    "timeAdded": "2020-06-30T17:25:12.388Z"
   }
 ]
