@@ -2150,5 +2150,68 @@
     "cat": "clothes",
     "id": 29017,
     "timeAdded": "2020-06-30T17:25:12.388Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "tall",
+        "pl": "wysoki"
+      },
+      "char": "高",
+      "pron": "gao1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Lili is a lot taller than her older sister.",
+        "pl": "Lili jest dużo wyższa od swojej starszej siostry."
+      },
+      "char": "丽丽比她姐姐高得多。",
+      "pron": "Li2li bi3 ta1 jie3jie gao1 de duo1."
+    },
+    "cat": "features",
+    "id": 42141,
+    "timeAdded": "2020-07-01T18:36:24.690Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "short",
+        "pl": "niski"
+      },
+      "char": "矮",
+      "pron": "ai3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Who is this short man?",
+        "pl": "Kim jest ten niski mężczyzna?"
+      },
+      "char": "这个矮个子的人是谁？",
+      "pron": "Zhe4 ge ai3 ge4zi de ren2 shi shei2?"
+    },
+    "cat": "features",
+    "id": 95185,
+    "timeAdded": "2020-07-01T18:39:49.545Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "fat",
+        "pl": "gruby"
+      },
+      "char": "胖",
+      "pron": "pang4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Dad and grandpa are equally fat.",
+        "pl": "Tata i dziadek są tak samo grubi."
+      },
+      "char": "爸爸跟爷爷一样胖。",
+      "pron": "Ba4ba gen1 ye2ye yi1yang4 pang4."
+    },
+    "cat": "features",
+    "id": 93815,
+    "timeAdded": "2020-07-01T18:42:02.465Z"
   }
 ]
