@@ -39,10 +39,4 @@ example _hanzi_ model:
     cat: []
 }
 ```
-todo: 
-- [ ] (more) DRY questions
-- [ ] handling empty additions
-- [ ] checking the encoding type on input
-- [ ] entry viewing
-- [ ] entry edition
-- [ ] entry deletion
+The strucure will surely evolve into something more flexible (see [here](https://github.com/JStrebeyko/hanzi-cli/projects/1))
