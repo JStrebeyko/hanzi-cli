@@ -2213,5 +2213,47 @@
     "cat": "features",
     "id": 93815,
     "timeAdded": "2020-07-01T18:42:02.465Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "skinny",
+        "pl": "chudy"
+      },
+      "char": "瘦",
+      "pron": "shou4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His younger sister is not skinny anymore.",
+        "pl": "Jego siostra nie jest już tak chuda jak dawniej."
+      },
+      "char": "他妹妹已经没有以前瘦。",
+      "pron": "Ta1 mei4mei yi3jing1 mei2 you3 yi3qian2 shou4."
+    },
+    "cat": "features",
+    "id": 796,
+    "timeAdded": "2020-07-02T11:59:38.900Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "young",
+        "pl": "młody"
+      },
+      "char": "年轻",
+      "pron": "nian2qing1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Young people should give their seats to elders.",
+        "pl": "Młodzi ludzie powinni ustępować miejsca starszym."
+      },
+      "char": "年轻人应该给老人让座。",
+      "pron": "Nian2qing1 ren2 ying1gai1 gei3 lao3ren2 rang4zuo4."
+    },
+    "cat": "features",
+    "id": 42570,
+    "timeAdded": "2020-07-02T12:02:10.592Z"
   }
 ]
