@@ -9,7 +9,7 @@
     "private": true,
     "scripts": {
         "add-card": "node --experimental-modules --experimental-json-modules hanzi.js add",
-	"push-added": "git add dict/dict.json && git commit -m \"new entries\" && git push"
+	"push": "git add dict/dict.json && git commit -m \"new entries\" && git push"
     },
     "dependencies": {
         "chalk": "^4.0.0"
