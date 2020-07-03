@@ -2255,5 +2255,47 @@
     "cat": "features",
     "id": 42570,
     "timeAdded": "2020-07-02T12:02:10.592Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "old",
+        "pl": "stary"
+      },
+      "char": "老",
+      "pron": "lao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Even though he is already old, he has great memory.",
+        "pl": "Chociaż jest już stary, ma bardzo dobrą pamięć."
+      },
+      "char": "虽然他已经很老，但是他的记忆力很好。",
+      "pron": "Sui1ran2 ta1 yi3jing1 hen3 lao3, dan4shi4 ta1 de ji4yi4li4 hen3 hao3."
+    },
+    "cat": "features",
+    "id": 10238,
+    "timeAdded": "2020-07-03T11:11:21.929Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "beautiful",
+        "pl": "piękny"
+      },
+      "char": "漂亮",
+      "pron": "piao4liang"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I have never yet seen a face this beautiful.",
+        "pl": "Nigdy nie widziałem jeszcze tak pięknej twarzy."
+      },
+      "char": "我从来没见过这么漂亮的脸。",
+      "pron": "Wo3 cong2lai2 mei2 jiang4guo zhe4me piao4liang de lian3."
+    },
+    "cat": "features",
+    "id": 19486,
+    "timeAdded": "2020-07-03T11:14:57.953Z"
   }
 ]
