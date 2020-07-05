@@ -2297,5 +2297,47 @@
     "cat": "features",
     "id": 19486,
     "timeAdded": "2020-07-03T11:14:57.953Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "ugly",
+        "pl": "brzydki"
+      },
+      "char": "丑陋",
+      "pron": "chou3lou4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This is one unbearably ugly town.",
+        "pl": "To miasto jest okropnie brzydkie."
+      },
+      "char": "这是一座丑陋不堪的城市。",
+      "pron": "Zhe4 shi4 yi1 zuo4 chou3lou4 bu4kan1 de cheng2shi4."
+    },
+    "cat": "features",
+    "id": 29116,
+    "timeAdded": "2020-07-05T15:18:06.005Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "good-looking",
+        "pl": "przystojny"
+      },
+      "char": "帅",
+      "pron": "shuai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Their son is very handsome.",
+        "pl": "Ich syn jest bardzo przystojny."
+      },
+      "char": "他们儿子长得很帅。",
+      "pron": "Ta1men er2zi zhang3 de hen3 shuai4."
+    },
+    "cat": "features",
+    "id": 20528,
+    "timeAdded": "2020-07-05T15:20:35.149Z"
   }
 ]
