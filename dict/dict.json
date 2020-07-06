@@ -2339,5 +2339,68 @@
     "cat": "features",
     "id": 20528,
     "timeAdded": "2020-07-05T15:20:35.149Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "adorable",
+        "pl": "uroczy"
+      },
+      "char": "可爱",
+      "pron": "ke3'ai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They have three adorable children.",
+        "pl": "Oni mają trójkę uroczych dzieci."
+      },
+      "char": "他们有三个可爱的孩子。",
+      "pron": "Ta1men you3 san1 ge ke3'ai4 de hai2zi."
+    },
+    "cat": "features",
+    "id": 68472,
+    "timeAdded": "2020-07-06T18:38:39.485Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "long hair",
+        "pl": "długie włosy"
+      },
+      "char": "长发",
+      "pron": "chang2fa4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I don't like men growing long hair.",
+        "pl": "Nie lubię, gdy mężczyźni noszą długie włosy."
+      },
+      "char": "我不喜欢男人留长发。",
+      "pron": "Wo3 bu4 xi3huan nan2ren2 liu2 chang2fa4."
+    },
+    "cat": "features",
+    "id": 36287,
+    "timeAdded": "2020-07-06T18:41:46.309Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "short hair",
+        "pl": "krótkie włosy"
+      },
+      "char": "短发",
+      "pron": "duan3fa4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Nowadays many women have their hair short.",
+        "pl": "Obecnie wiele kobiet nosi krótkie włosy."
+      },
+      "char": "现在很多女人留短发",
+      "pron": "Xian4zai4 hen3 duo1 nu3ren2 liu2 duan3fa4."
+    },
+    "cat": "features",
+    "id": 96965,
+    "timeAdded": "2020-07-06T18:44:40.525Z"
   }
 ]
