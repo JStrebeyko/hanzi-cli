@@ -2402,5 +2402,68 @@
     "cat": "features",
     "id": 96965,
     "timeAdded": "2020-07-06T18:44:40.525Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "straight hair",
+        "pl": "proste włosy"
+      },
+      "char": "直发",
+      "pron": "zhi2fa4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Because she does not like straight hair, she decided to go permanent.",
+        "pl": "Ponieważ nie lubi prostych włosów, postanowiła zrobić trwałą."
+      },
+      "char": "她因为不喜欢直发，所以决定去烫发。",
+      "pron": "Ta1 yin1wei4 bu4 xi3huan zhi2fa4, suo3yi3 jue2ding4 qu4 tang4fa4."
+    },
+    "cat": "features",
+    "id": 50314,
+    "timeAdded": "2020-07-07T19:50:04.355Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "bald",
+        "pl": "łysy, łysina"
+      },
+      "char": "秃头",
+      "pron": "tu1tou2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He can't stand when other people make fun of his baldness.",
+        "pl": "Nie znosi, kiedy inni naśmiewają się z jego łysiny."
+      },
+      "char": "他讨厌别人取笑他的秃头。",
+      "pron": "Ta1 tao3yan4 bie2ren2 qu3xiao4 ta1 de tu1tou2."
+    },
+    "cat": "features",
+    "id": 67428,
+    "timeAdded": "2020-07-07T19:55:45.067Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "beard",
+        "pl": "zarost"
+      },
+      "char": "胡子",
+      "pron": "hu2zi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "To shave.",
+        "pl": "Golić się."
+      },
+      "char": "刮胡子。",
+      "pron": "gua1 hu2zi."
+    },
+    "cat": "features",
+    "id": 95533,
+    "timeAdded": "2020-07-07T19:58:36.859Z"
   }
 ]
