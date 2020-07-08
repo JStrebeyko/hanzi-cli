@@ -2465,5 +2465,68 @@
     "cat": "features",
     "id": 95533,
     "timeAdded": "2020-07-07T19:58:36.859Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "wrinckles",
+        "pl": "zmarszczki"
+      },
+      "char": "皱纹",
+      "pron": "zhou4wen2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Even though she is turninr seventy, she yet does not have a single wrinckle on her face. ",
+        "pl": "Chociaż kończy siedemdziesiąt lat, nie ma na twarzy ani jednej zmarszczki."
+      },
+      "char": "虽然她七十岁了，但是她的脸上一点儿皱纹也没有。",
+      "pron": "Sui1ran2 ta1 qi1shi2 zui4 le, dan4shi4 ta1 de lian3 shang4 yi1dian3r zhou4wen2 ye3 mei2 you4."
+    },
+    "cat": "features",
+    "id": 86872,
+    "timeAdded": "2020-07-08T19:34:52.512Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "joyful",
+        "pl": "radosny"
+      },
+      "char": "开朗",
+      "pron": "kai1lang3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Their daughter is a joyful little girl.",
+        "pl": "Ich córka to radosna dziewczynka."
+      },
+      "char": "他们的女儿是一个开朗的女孩子。",
+      "pron": "Ta1men de nu3'er2 shi4 yi1 ge kai1lang3 de xiao3 nu3hair2."
+    },
+    "cat": "character",
+    "id": 62822,
+    "timeAdded": "2020-07-08T19:40:00.744Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "stingy",
+        "pl": "skąpy"
+      },
+      "char": "小气",
+      "pron": "xiao3qi4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Alice thinks that her husband is too stingy.",
+        "pl": "Alicja uważa, że jej mąż jest zbyt skąpy."
+      },
+      "char": "爱丽丝觉得他的丈夫太小气。",
+      "pron": "Ai4li4si1 jue2de ta1 de zhang4fu tai4 xiao3qi4 le."
+    },
+    "cat": "character",
+    "id": 18047,
+    "timeAdded": "2020-07-08T19:44:15.392Z"
   }
 ]
