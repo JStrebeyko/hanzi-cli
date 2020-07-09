@@ -2528,5 +2528,68 @@
     "cat": "character",
     "id": 18047,
     "timeAdded": "2020-07-08T19:44:15.392Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "generous",
+        "pl": "hojny"
+      },
+      "char": "大方",
+      "pron": "da4fang"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Lao Zhang is extremely generous towards the poor.",
+        "pl": "Lao Zhang jest niezwykle hojny dla ubogich."
+      },
+      "char": "老张对穷人非常大方。",
+      "pron": "Lao3 Zhang1 dui4 qiong2ren2 fei1chang2 da4fang."
+    },
+    "cat": "character",
+    "id": 1795,
+    "timeAdded": "2020-07-09T21:15:00.883Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "timid",
+        "pl": "nieśmiały"
+      },
+      "char": "害羞",
+      "pron": "hai4xiu1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This child is not at all timid.",
+        "pl": "To dziecko wcale nie jest nieśmiałe."
+      },
+      "char": "这个小孩儿一点儿也不害羞。",
+      "pron": "Zhe4 ge xiao3hair2 yi1dianr3 ye3 bu4 hai4xiu1."
+    },
+    "cat": "character",
+    "id": 33132,
+    "timeAdded": "2020-07-09T21:18:46.103Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "confident",
+        "pl": "pewny siebie"
+      },
+      "char": "自信",
+      "pron": "zi4xin4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "If you want to succeed, you should be more confident.",
+        "pl": "Jeśli chcesz odnieść sukces, powinieneś być bardziej pewny siebie."
+      },
+      "char": "要唱功的话，你应该自信一些。",
+      "pron": "Yao4 cheng2gong1 de hua4, ni3 ying1gai1 zi4xin4 yi1xie1."
+    },
+    "cat": "character",
+    "id": 30130,
+    "timeAdded": "2020-07-09T21:22:16.710Z"
   }
 ]
