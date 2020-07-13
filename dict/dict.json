@@ -2591,5 +2591,89 @@
     "cat": "character",
     "id": 30130,
     "timeAdded": "2020-07-09T21:22:16.710Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "kind",
+        "pl": "uprzejmy"
+      },
+      "char": "热情",
+      "pron": "re4qing2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A kind shopkeeper helped me buy a set of underwear for my wife.",
+        "pl": "Uprzejma sprzedawczyni pomogła mi kupić komplet bielizny dla żony."
+      },
+      "char": "热情的售货员帮我给妻子买一套内衣。",
+      "pron": "Re4qing2 de shou4huo4yuan2 bang1 wo3 gei3 qi1zi mai3 yi1 tao4 nei4yi1."
+    },
+    "cat": "character",
+    "id": 54833,
+    "timeAdded": "2020-07-13T16:35:16.716Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "arrogant",
+        "pl": "arogancki"
+      },
+      "char": "傲慢",
+      "pron": "ao4man4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This women seems to be very arrogant.",
+        "pl": "Ta kobieta wydaje się bardzo arogancka."
+      },
+      "char": "这个女人看起来十分傲慢。",
+      "pron": "Zhe4 ge nu3ren2 kan4 qi3lai2 shi2fen1 ao4man4."
+    },
+    "cat": "character",
+    "id": 12845,
+    "timeAdded": "2020-07-13T16:38:12.043Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "modest",
+        "pl": "skromny"
+      },
+      "char": "谦虚",
+      "pron": "qian1xu1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "You should not be too modest.",
+        "pl": "Nie powinieneś być przesadnie skromny."
+      },
+      "char": "你不要过于谦虚。",
+      "pron": "Ni3 bu4 yao4 guo4yu2 qian1xu1."
+    },
+    "cat": "character",
+    "id": 30147,
+    "timeAdded": "2020-07-13T16:41:17.715Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "introverted",
+        "pl": "zamknięty w sobie"
+      },
+      "char": "内向",
+      "pron": "nei4xiang4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I think he is a bit introverted.",
+        "pl": "Uważam, że jest zamknięty w sobie."
+      },
+      "char": "我认为他有一点儿内向。",
+      "pron": "Wo3 ren4wei2 ta1 you3 dianr3 nei4xiang4."
+    },
+    "cat": "character",
+    "id": 80545,
+    "timeAdded": "2020-07-13T16:44:28.300Z"
   }
 ]
