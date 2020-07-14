@@ -2675,5 +2675,47 @@
     "cat": "character",
     "id": 80545,
     "timeAdded": "2020-07-13T16:44:28.300Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "extrovert",
+        "pl": "otwarty, towarzyski"
+      },
+      "char": "外向",
+      "pron": "wai4xiang4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Susan is a very extrovert person.",
+        "pl": "Zuzanna jest bardzo otwartą osobą."
+      },
+      "char": "苏珊是性格外向的人。",
+      "pron": "Su1shan1 shi4 xing4ge2 wai4xiang de ren2."
+    },
+    "cat": "character",
+    "id": 7875,
+    "timeAdded": "2020-07-14T16:09:56.555Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "patient",
+        "pl": "cierpliwy"
+      },
+      "char": "有耐心",
+      "pron": "you3 nai4xin1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A teacher should be patient.",
+        "pl": "Nauczyciel powinien być cierpliwy."
+      },
+      "char": "老师应该有耐心。",
+      "pron": "Lao3shi1 ying1gai1 you3 nai4xin1."
+    },
+    "cat": "character",
+    "id": 81194,
+    "timeAdded": "2020-07-14T16:12:18.149Z"
   }
 ]
