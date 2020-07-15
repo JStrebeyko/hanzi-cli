@@ -1,7 +1,7 @@
 import chalk from 'chalk';
 import readline from 'readline';
 import fs from 'fs';
-import json from './dict/dict.json'
+import json from '../data/dict.json'
 
 const option = process.argv.slice(2)[0]
 
