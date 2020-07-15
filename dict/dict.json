@@ -2717,5 +2717,47 @@
     "cat": "character",
     "id": 81194,
     "timeAdded": "2020-07-14T16:12:18.149Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "diligent",
+        "pl": "pracowity"
+      },
+      "char": "勤劳",
+      "pron": "qin2lao2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Our neighbours got rich through hard work.",
+        "pl": "Nasi sąsiedzi wzbogadzili się dzięki pracowitości."
+      },
+      "char": "我们的邻居靠勤劳富了起来。",
+      "pron": "Wo3men de lin2ju1 kao4 qin2lao2 fu4 le qi3lai2."
+    },
+    "cat": "character",
+    "id": 46129,
+    "timeAdded": "2020-07-15T12:09:56.149Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "lazy",
+        "pl": "leniwy"
+      },
+      "char": "懒惰",
+      "pron": "lan3duo4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Because he is lazy, he was laid off.",
+        "pl": "Zwolniono go, bo jest leniwy."
+      },
+      "char": "他因懒惰而被解雇了。",
+      "pron": "Ta1 yin1 lan3duo4 er2 bei4 jie3gu4 le."
+    },
+    "cat": "character",
+    "id": 30860,
+    "timeAdded": "2020-07-15T14:26:23.166Z"
   }
 ]
