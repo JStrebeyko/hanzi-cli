@@ -9,7 +9,7 @@
     "private": true,
     "scripts": {
         "cli": "node --experimental-modules --experimental-json-modules cli/cli.js add",
-	    "push": "git add data/dict.json && git commit -m \"new entries\" && git push"
+	"push": "git add data/dict.json && git commit -m \"new entries\" && git push"
     },
     "dependencies": {
         "chalk": "^4.0.0"
