@@ -2759,5 +2759,47 @@
     "cat": "character",
     "id": 30860,
     "timeAdded": "2020-07-15T14:26:23.166Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "intelligent",
+        "pl": "inteligentny"
+      },
+      "char": "聪明",
+      "pron": "cong1ming"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She is both intelligent and hard-working.",
+        "pl": "Ona jest zarówno zarówno inteligentna jak i pracowita."
+      },
+      "char": "她既聪明又勤劳。",
+      "pron": "Ta1 ji4 cong1ming you4 qin2lao2."
+    },
+    "cat": "character",
+    "id": 36924,
+    "timeAdded": "2020-07-16T08:12:58.942Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "stupid",
+        "pl": "głupi"
+      },
+      "char": "笨",
+      "pron": "ben4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His older brothers is not stupid, just lazy.",
+        "pl": "Jego starszy brat nie jest głupi tylko leniwy."
+      },
+      "char": "他哥哥不笨，就是懒惰。",
+      "pron": "Ta1 ge1ge bu4 ben4, jiu4shi4 lan3duo4."
+    },
+    "cat": "character",
+    "id": 39561,
+    "timeAdded": "2020-07-16T08:17:20.155Z"
   }
 ]
