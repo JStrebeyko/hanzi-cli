@@ -2801,5 +2801,47 @@
     "cat": "character",
     "id": 39561,
     "timeAdded": "2020-07-16T08:17:20.155Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "honest",
+        "pl": "uczciwy"
+      },
+      "char": "诚实",
+      "pron": "cheng2shi2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Honest people don't cheat others.",
+        "pl": "Uczciwi ludzie nie oszukują innych."
+      },
+      "char": "诚实的人不骗别人。",
+      "pron": "Cheng2shi2 de ren2 bu4 pian4 bie2ren2."
+    },
+    "cat": "character",
+    "id": 49459,
+    "timeAdded": "2020-07-17T10:18:23.417Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "stubborn",
+        "pl": "uparty"
+      },
+      "char": "固执",
+      "pron": "gu4zhi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Why is he so stubborn?",
+        "pl": "Czemu on jest taki uparty?"
+      },
+      "char": "他为什么这么固执？",
+      "pron": "Ta1 wei4shen2me zhe4me gu4zhi？"
+    },
+    "cat": "character",
+    "id": 56023,
+    "timeAdded": "2020-07-17T10:20:56.160Z"
   }
 ]
