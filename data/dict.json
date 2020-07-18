@@ -2843,5 +2843,47 @@
     "cat": "character",
     "id": 56023,
     "timeAdded": "2020-07-17T10:20:56.160Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "brave",
+        "pl": "odważny"
+      },
+      "char": "勇敢",
+      "pron": "yong3gan3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I admire him because he is brave.",
+        "pl": "Podziwiam go, ponieważ jest odważny."
+      },
+      "char": "我佩服他因为他很勇敢。",
+      "pron": "Wo3 pei4fu ta1 yin1wei4 ta1 hen3 yong3gan3."
+    },
+    "cat": "character",
+    "id": 83685,
+    "timeAdded": "2020-07-18T17:41:35.019Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "car",
+        "pl": "samochód"
+      },
+      "char": "汽车",
+      "pron": "qi4che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do you like this red car?",
+        "pl": "Podoba ci się ten czerwony samochód?"
+      },
+      "char": "你喜欢这辆红色的汽车马？",
+      "pron": "Ni3 xi3huan zhe4 liang4 hong2se4 de qi4che1 ma?"
+    },
+    "cat": "transport",
+    "id": 92858,
+    "timeAdded": "2020-07-18T17:44:49.459Z"
   }
 ]
