@@ -2885,5 +2885,47 @@
     "cat": "transport",
     "id": 92858,
     "timeAdded": "2020-07-18T17:44:49.459Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "public bus",
+        "pl": "autobus"
+      },
+      "char": "公共汽车",
+      "pron": "gong1gong4 qi4che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Everyday he goes to school with a bus.",
+        "pl": "On codzinnie jeździ do szkoły autobusem."
+      },
+      "char": "他每天坐公共汽车去上学。",
+      "pron": "Ta1 mei23tian1 zuo4 gong1gong4 qi4che1 qu4 shang4xue2."
+    },
+    "cat": "transport",
+    "id": 21941,
+    "timeAdded": "2020-07-19T06:39:24.077Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "train",
+        "pl": "pociąg"
+      },
+      "char": "火车",
+      "pron": "huo3che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In July we are taking a train to China.",
+        "pl": "W lipcu jedziemy pociągiem do Chin."
+      },
+      "char": "七月我们坐火车去中国。",
+      "pron": "Qi1yue4 wo3men zuo4 huo3che1 qu4 Zhong1guo2."
+    },
+    "cat": "transport",
+    "id": 50314,
+    "timeAdded": "2020-07-19T06:42:14.789Z"
   }
 ]
