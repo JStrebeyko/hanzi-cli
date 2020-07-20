@@ -2927,5 +2927,47 @@
     "cat": "transport",
     "id": 50314,
     "timeAdded": "2020-07-19T06:42:14.789Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "subway",
+        "pl": "metro"
+      },
+      "char": "地铁",
+      "pron": "di4tie3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Subway came!",
+        "pl": "Metro przyjechało!"
+      },
+      "char": "地铁来了！",
+      "pron": "Di4tie3 lai2 le!"
+    },
+    "cat": "transport",
+    "id": 67310,
+    "timeAdded": "2020-07-20T06:33:57.365Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "airplane",
+        "pl": "samolot"
+      },
+      "char": "飞机",
+      "pron": "fei1ji1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We're flying on a plane to Australia.",
+        "pl": "Lecimy samolotem do Australii."
+      },
+      "char": "我们坐飞机去澳大利亚。",
+      "pron": "Wo3men zuo4 fei1ji1 qu4 Ao4da4li4ya4."
+    },
+    "cat": "transport",
+    "id": 37624,
+    "timeAdded": "2020-07-20T06:35:55.008Z"
   }
 ]
