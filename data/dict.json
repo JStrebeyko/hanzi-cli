@@ -2969,5 +2969,47 @@
     "cat": "transport",
     "id": 37624,
     "timeAdded": "2020-07-20T06:35:55.008Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "bicycle",
+        "pl": "rower"
+      },
+      "char": "自行车",
+      "pron": "zi4xing2che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Everyday I ride bicycle to work.",
+        "pl": "Codziennie jeżdżę rowerem do pracy."
+      },
+      "char": "我每天骑自行车去上班。",
+      "pron": "Wo3 mei3tian1 qi2 zi4xing2che1 qu4 shang4ban1."
+    },
+    "cat": "transport",
+    "id": 58338,
+    "timeAdded": "2020-07-21T06:36:38.715Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "motorcycle",
+        "pl": "motocykl"
+      },
+      "char": "摩托车",
+      "pron": "mo4tuo1che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My husband bought a black motorcycle.",
+        "pl": "Mój mąż kupił czarny motocykl."
+      },
+      "char": "我丈夫买了一辆黑色的摩托车。",
+      "pron": "Wo3 zhang4fu mai3 le yi3 liang4 hei1se4 de mo2tuo1che1."
+    },
+    "cat": "transport",
+    "id": 54446,
+    "timeAdded": "2020-07-21T06:39:25.532Z"
   }
 ]
