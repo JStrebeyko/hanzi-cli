@@ -3011,5 +3011,68 @@
     "cat": "transport",
     "id": 54446,
     "timeAdded": "2020-07-21T06:39:25.532Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "boat",
+        "pl": "statek"
+      },
+      "char": "船",
+      "pron": "chuan2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Next year they are going on a boat to Africa.",
+        "pl": "W przyszłym roku płyną statkiem do Afryki."
+      },
+      "char": "明年他们坐船去非洲。",
+      "pron": "Ming2nian2 ta1men zuo4 chuan2 qu4 Fei1zhou1."
+    },
+    "cat": "transport",
+    "id": 48558,
+    "timeAdded": "2020-07-22T06:16:57.963Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "bus stop",
+        "pl": "przystanek autobusowy"
+      },
+      "char": "公共汽车站",
+      "pron": "gong1gong4 qi4che1zhan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Xialan is waiting for a bus on a bus stop.",
+        "pl": "Xialan czeka na autobus na dworcu autobusowym."
+      },
+      "char": "夏兰在公共汽车站等车。",
+      "pron": "Xia4lan2 zai4 gong1gong4 qi4che1zhan4 deng3 che1."
+    },
+    "cat": "transport",
+    "id": 68079,
+    "timeAdded": "2020-07-22T06:19:56.841Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "train station",
+        "pl": "dworzec kolejowy"
+      },
+      "char": "火车站",
+      "pron": "huo3che1zhan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Excuse me, how to get to the train station?",
+        "pl": "Przepraszam, jak dojść na dworzec kolejowy?"
+      },
+      "char": "请问，到火车站怎么走？",
+      "pron": "Qing3wen4, dao4 huo3che1zhan4 zen3me zou3?"
+    },
+    "cat": "transport",
+    "id": 59554,
+    "timeAdded": "2020-07-22T06:23:08.000Z"
   }
 ]
