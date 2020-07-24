@@ -3074,5 +3074,68 @@
     "cat": "transport",
     "id": 59554,
     "timeAdded": "2020-07-22T06:23:08.000Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "subway station",
+        "pl": "stacja metra"
+      },
+      "char": "地铁站",
+      "pron": "di4tie3zhan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Excuse me, where is the nearest subway station?",
+        "pl": "Przepraszam, gdzie jest najbliższa stacja metra?"
+      },
+      "char": "请问，最近的地铁站在那儿？",
+      "pron": "Qing3wen4, zui4jin4 de di4tie3zhan4 zai4 nar3?"
+    },
+    "cat": "transport",
+    "id": 33897,
+    "timeAdded": "2020-07-24T08:15:05.181Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "airport",
+        "pl": "lotnisko"
+      },
+      "char": "机场",
+      "pron": "ji1chang3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We want to go to the airport.",
+        "pl": "Chcemy jechać na lotnisko."
+      },
+      "char": "我们要去机场。",
+      "pron": "Wo3men yao4 qu4 ji1chang3."
+    },
+    "cat": "transport",
+    "id": 31125,
+    "timeAdded": "2020-07-24T08:17:20.574Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to drive",
+        "pl": "prowadzić"
+      },
+      "char": "开",
+      "pron": "kai1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mom can't drive.",
+        "pl": "Mama nie umie prowadzić samochodu."
+      },
+      "char": "妈妈不会开车。",
+      "pron": "Ma1ma bu4 hui4 kai1 che1."
+    },
+    "cat": "transport",
+    "id": 4985,
+    "timeAdded": "2020-07-24T08:19:14.421Z"
   }
 ]
