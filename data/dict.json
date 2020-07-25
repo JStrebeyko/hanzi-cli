@@ -3137,5 +3137,68 @@
     "cat": "transport",
     "id": 4985,
     "timeAdded": "2020-07-24T08:19:14.421Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to ride (as a passanger)",
+        "pl": "jechać (jako pasażer)"
+      },
+      "char": "坐",
+      "pron": "zuo4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Their younger brother does not like riding a subway.",
+        "pl": "Ich młodszy brat nie lubi jeździć metrem."
+      },
+      "char": "他们弟弟不喜欢坐地铁。",
+      "pron": "Ta1men di4di bu4 xi3huan zuo4 di4tie3."
+    },
+    "cat": "transport",
+    "id": 67139,
+    "timeAdded": "2020-07-25T13:21:51.696Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to ride (a bike, a motorcycle, a horse)",
+        "pl": "jeździć (na rowerze, motocyklu, koniu)"
+      },
+      "char": "骑",
+      "pron": "qi2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His mom considers riding a motorcycle dangerous.",
+        "pl": "Jego mama uważa, że jazda na motorze jest niebezpieczna."
+      },
+      "char": "他妈妈认为骑摩托车很危险。",
+      "pron": "Ta1 ma1ma ren4wei2 qi2 mo2tuo1che1 hen3 wei1xian3."
+    },
+    "cat": "transport",
+    "id": 70152,
+    "timeAdded": "2020-07-25T13:25:33.410Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get onboard",
+        "pl": "wsiadać"
+      },
+      "char": "上车",
+      "pron": "shang4 che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Please get onboard quickly!",
+        "pl": "Proszę szybko wsiadać!"
+      },
+      "char": "请赶快上车！",
+      "pron": "Qing3 gan3kuai4 shang4 che1!"
+    },
+    "cat": "transport",
+    "id": 90624,
+    "timeAdded": "2020-07-25T13:28:03.934Z"
   }
 ]
