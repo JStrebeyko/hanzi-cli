@@ -3200,5 +3200,194 @@
     "cat": "transport",
     "id": 90624,
     "timeAdded": "2020-07-25T13:28:03.934Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get off",
+        "pl": "wysiadać"
+      },
+      "char": "下车",
+      "pron": "xia4 che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Where should we get off?",
+        "pl": "Gdzie powinniśmy wysiąść?"
+      },
+      "char": "我们应该在哪儿下车？",
+      "pron": "Wo3men ying1gai1 zai4 nar3 xai4 che1?"
+    },
+    "cat": "transport",
+    "id": 89876,
+    "timeAdded": "2020-08-09T07:36:02.282Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "(vehicle classificator)",
+        "pl": "(klasyfikator do pojazdów)"
+      },
+      "char": "辆",
+      "pron": "liang4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My father has three cars.",
+        "pl": "Mój ojciec ma trzy samochody."
+      },
+      "char": "我爸爸有三辆汽车。",
+      "pron": "Wo3 ba4ba you3 san1 liang4 qi4che1."
+    },
+    "cat": "health",
+    "id": 72254,
+    "timeAdded": "2020-08-09T07:38:26.490Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "health",
+        "pl": "zdrowie"
+      },
+      "char": "健康",
+      "pron": "jian4kang1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Smoking is harmful for health.",
+        "pl": "Palenie jest szkodliwe dla zdrowia."
+      },
+      "char": "吸烟对健康有害。",
+      "pron": "Xi1yan1 dui4 jian4kang1 you3hai4."
+    },
+    "cat": "health",
+    "id": 45185,
+    "timeAdded": "2020-08-09T07:44:19.450Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to feel well",
+        "pl": "czuć się dobrze"
+      },
+      "char": "舒服",
+      "pron": "shu1fu"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mom does not feel well today.",
+        "pl": "Mama nie czuje się dzisiaj dobrze."
+      },
+      "char": "妈妈今天觉得不舒服。",
+      "pron": "Ma1ma jin1ian1 jue2de bu4 shu1fu."
+    },
+    "cat": "health",
+    "id": 21652,
+    "timeAdded": "2020-08-09T07:48:10.015Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "illness",
+        "pl": "choroba"
+      },
+      "char": "病",
+      "pron": "bing4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Flu is an infectious disease.",
+        "pl": "Grypa jest chorobą zakaźną."
+      },
+      "char": "流感是一种传染病。",
+      "pron": "Liu2gan3 shi4 yi1 zhong3 chuan2ran3 bing4."
+    },
+    "cat": "health",
+    "id": 54529,
+    "timeAdded": "2020-08-09T07:53:30.132Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get sick",
+        "pl": "zachorować"
+      },
+      "char": "生病",
+      "pron": "sheng1bing4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My classmate did not come to school, because she got sick.",
+        "pl": "Moja koleżanka z klasy nie przyszła do szkoły, ponieważ zachorowała."
+      },
+      "char": "我的同学因为生病，所以没来上课。",
+      "pron": "Wo3 de tong2xue2 yin1wei4 sheng1bing4, suo3yi3 mei2 lai2 shang4ke4."
+    },
+    "cat": "health",
+    "id": 31773,
+    "timeAdded": "2020-08-09T07:58:14.403Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get checked",
+        "pl": "iść do lekarza"
+      },
+      "char": "看病",
+      "pron": "kan4bing4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The doctor who examined me says I should quit smoking.",
+        "pl": "Lekarz, który mnie badał, powiedział, że powinienem rzucić palenie."
+      },
+      "char": "给我看病的医生说我应该戒烟。",
+      "pron": "Gei3 wo3 kan4bing4 de yi1sheng1 shuo1 wo3 ying1gai1 jie4yan1."
+    },
+    "cat": "health",
+    "id": 68996,
+    "timeAdded": "2020-08-09T08:03:19.112Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a hospital",
+        "pl": "szpital"
+      },
+      "char": "医院",
+      "pron": "yi1yuan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "All the wounded have already been transported to a hospital.",
+        "pl": "Wszyscy ranni zostali już przewiezieni do szpitala."
+      },
+      "char": "所有的受伤者已经被送到医院。",
+      "pron": "Suo3you3 de shou4shang1zhe3 yi3jing1 bei4 song4 dao4 yi1yuan4."
+    },
+    "cat": "health",
+    "id": 45742,
+    "timeAdded": "2020-08-09T08:07:42.388Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "pharmacy",
+        "pl": "apteka"
+      },
+      "char": "药房",
+      "pron": "yao4fang2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In the afternoon I am going to a pharmacy to buy medicine for my dad.",
+        "pl": "Po południu pójdę do apteki kupić leki dla taty."
+      },
+      "char": "我下午去药房给爸爸买药。",
+      "pron": "Wo3 xia4wu3 qu4 yao4fang2 gei3 ba4ba mai3 yao4."
+    },
+    "cat": "health",
+    "id": 28705,
+    "timeAdded": "2020-08-09T08:22:00.653Z"
   }
 ]
