@@ -3389,5 +3389,257 @@
     "cat": "health",
     "id": 28705,
     "timeAdded": "2020-08-09T08:22:00.653Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "medicine",
+        "pl": "lekarstwo"
+      },
+      "char": "药",
+      "pron": "yao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to take medicine",
+        "pl": "brać lekarstwo"
+      },
+      "char": "吃药",
+      "pron": "chi1 yao4"
+    },
+    "cat": "health",
+    "id": 66656,
+    "timeAdded": "2020-08-09T14:47:04.707Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to make injection",
+        "pl": "robić zastrzyk"
+      },
+      "char": "打针",
+      "pron": "da3zhen1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The nurse is doing injections to sick people.",
+        "pl": "Pielęgniarka robi zastrzyk chorym."
+      },
+      "char": "护士给病人打针。",
+      "pron": "Hu4shi gei3 bing4ren2 da3zhen1."
+    },
+    "cat": "health",
+    "id": 32463,
+    "timeAdded": "2020-08-09T14:55:22.665Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "cold",
+        "pl": "przeziębienie, przeziębiać się"
+      },
+      "char": "感冒",
+      "pron": "gan3mao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What is the best way to treat cold?",
+        "pl": "Jaki jest najlepszy sposób na przeziębienie?"
+      },
+      "char": "治疗感冒的最好方法是什么？",
+      "pron": "Zhi4liao2 gan3mao4 de zui4 hao3 fang1fa3 shi4 shen2me."
+    },
+    "cat": "health",
+    "id": 61396,
+    "timeAdded": "2020-08-09T14:59:59.259Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to hurt",
+        "pl": "boleć"
+      },
+      "char": "疼",
+      "pron": "teng2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My throat hurts.",
+        "pl": "Boli mnie gardło."
+      },
+      "char": "我嗓子疼。",
+      "pron": "Wo3 sang3zi teng2."
+    },
+    "cat": "health",
+    "id": 11395,
+    "timeAdded": "2020-08-09T15:03:08.010Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to cough",
+        "pl": "kasłać"
+      },
+      "char": "咳嗽",
+      "pron": "ke2sou"
+    },
+    "sentence": {
+      "trans": {
+        "en": "You are coughing terribly, you should go see a doctor.",
+        "pl": "Strasznie kaszlesz, powinnaś iść do lekarza."
+      },
+      "char": "你咳嗽得很厉害， 应该去看病。",
+      "pron": "Ni ke2sou de hen3 li4hai, ying1gai1 qu4 kan4bing4."
+    },
+    "cat": "health",
+    "id": 76377,
+    "timeAdded": "2020-08-09T15:06:14.152Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to have a runny nose",
+        "pl": "mieć katar"
+      },
+      "char": "流鼻涕",
+      "pron": "liu2 bi2ti4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Once spring comes, he instantly get a runny nose.",
+        "pl": "Jak tylko przychodzi wiosna, od razu ma katar."
+      },
+      "char": "春天一来，他就流鼻涕。",
+      "pron": "Chun1tian1 yi1 lai2, ta1 jiu4 liu2 bi2ti4."
+    },
+    "cat": "health",
+    "id": 86630,
+    "timeAdded": "2020-08-09T17:42:23.095Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to have a fever",
+        "pl": "gorączkować"
+      },
+      "char": "发烧",
+      "pron": "fa1shao1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My husband has a little fever.",
+        "pl": "Mój mąż trochę gorączkuje."
+      },
+      "char": "我丈夫有点儿发烧。",
+      "pron": "Wo3 zhang4fu you3dianr3 fa1shao1."
+    },
+    "cat": "health",
+    "id": 14762,
+    "timeAdded": "2020-08-09T17:44:54.016Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "an ambulance",
+        "pl": "karetka"
+      },
+      "char": "救护车",
+      "pron": "jiu4hu4che1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Quickly call an ambulance!",
+        "pl": "Szybko zadzwoń po karetkę!"
+      },
+      "char": "赶快打电话叫救护车！",
+      "pron": "Gan3kuai4 da3 dian4hua4 jiao4 jiu4hu4che1!"
+    },
+    "cat": "health",
+    "id": 72962,
+    "timeAdded": "2020-08-09T17:47:17.143Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get sick",
+        "pl": "chorować, zarażać się"
+      },
+      "char": "患",
+      "pron": "huan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "During winter many people get flu.",
+        "pl": "Zimą wielu ludzi choruje na grypę."
+      },
+      "char": "冬天许多人患流感。",
+      "pron": "Dong1tian1 xu3duo1 ren2 huan4 liu2gan3."
+    },
+    "cat": "health",
+    "id": 5423,
+    "timeAdded": "2020-08-09T17:50:50.200Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to cure",
+        "pl": "leczyć"
+      },
+      "char": "治疗",
+      "pron": "zhi4liao2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Doctor, how do you effectively cure deppression?",
+        "pl": "Doktorze, jak skutecznie wyleczyć depresję?"
+      },
+      "char": "医生，怎么有效地治疗忧郁症？",
+      "pron": "Yi1sheng1, zen3me you4xiao4 de zhi4liao2 you1yu4zheng4?"
+    },
+    "cat": "health",
+    "id": 24356,
+    "timeAdded": "2020-08-09T17:54:21.713Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "chinese medicine",
+        "pl": "medycyna chińska"
+      },
+      "char": "中医",
+      "pron": "Zhong1yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do you think that chinese medicine is better than the western one?",
+        "pl": "Czy uważasz, że chińska medycyna jest lepsza od medycyny zachodniej?"
+      },
+      "char": "你认为中医比西医好吗？",
+      "pron": "Ni ren4wei2 Zhong1yi1 bi3 Xi1yi1 hao3 ma?"
+    },
+    "cat": "health",
+    "id": 61536,
+    "timeAdded": "2020-08-09T17:57:10.451Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "the sun",
+        "pl": "słońce"
+      },
+      "char": "太阳",
+      "pron": "tai4yang2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The sun has just risen.",
+        "pl": "Przed chwilą wzeszło słońce."
+      },
+      "char": "太阳刚刚出来了。",
+      "pron": "Tai4yang2 gang1gang chu1lai2 le."
+    },
+    "cat": "nature",
+    "id": 74651,
+    "timeAdded": "2020-08-09T17:59:30.668Z"
   }
 ]
