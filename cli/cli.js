@@ -138,7 +138,7 @@ if (option === 'add') {
 		json.push(cardObj);
 
 		const data = JSON.stringify(json, null, 2);
-		fs.writeFile('dict/dict.json', data, function(err) {
+		fs.writeFile('data/dict.json', data, function(err) {
 			if (err) console.log(err)
 			console.log(chalk.bgGreenBright.black('dict updated!'));
 			console.log(`Current number of entries: ${chalk.bold(json.length)}`)
