@@ -3641,5 +3641,152 @@
     "cat": "nature",
     "id": 74651,
     "timeAdded": "2020-08-09T17:59:30.668Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "the moon",
+        "pl": "księżyc"
+      },
+      "char": "月亮",
+      "pron": "yue4liang"
+    },
+    "sentence": {
+      "trans": {
+        "en": "During the mid autumn festival the Chinase are admiring the moon.",
+        "pl": "W czasie Święta Środka Jesieni Chińczycy podziwiają księżyc."
+      },
+      "char": "中秋节中国人欣赏月亮。",
+      "pron": "Zhong1qiu1jie2 Zhongguo2ren2 xin1shang3 yue4liang."
+    },
+    "cat": "nature",
+    "id": 77387,
+    "timeAdded": "2020-08-09T18:05:39.865Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a star",
+        "pl": "gwiazda"
+      },
+      "char": "星星",
+      "pron": "xing1xing"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Today evening you cannot see the stars.",
+        "pl": "Dziś wieczorem nie widać gwiazd."
+      },
+      "char": "今天晚上看不到星星。",
+      "pron": "Jin1tian1 wan3shang kan4 bu dao4 xing1xing."
+    },
+    "cat": "nature",
+    "id": 2794,
+    "timeAdded": "2020-08-09T18:08:10.121Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a mountain",
+        "pl": "góra"
+      },
+      "char": "山",
+      "pron": "shan1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We want to climb that mountain.",
+        "pl": "Chcemy wspiąć się na tamtą górę."
+      },
+      "char": "我们要攀登那座山。",
+      "pron": "Wo3men yao4 pan1deng1 na4 zuo4 shan1."
+    },
+    "cat": "nature",
+    "id": 47577,
+    "timeAdded": "2020-08-09T18:09:43.608Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a sea",
+        "pl": "morze"
+      },
+      "char": "海",
+      "pron": "hai3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "a sea coast",
+        "pl": "wybrzeże morskie"
+      },
+      "char": "海边",
+      "pron": "hai3bian1"
+    },
+    "cat": "nature",
+    "id": 1121,
+    "timeAdded": "2020-08-09T18:10:59.565Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a river",
+        "pl": "rzeka"
+      },
+      "char": "河",
+      "pron": "he2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This river flows out of Himialayan mountain range.",
+        "pl": "Ta rzeka ma źródło w paśmie Himalajów."
+      },
+      "char": "这条河发源于喜马拉雅山脉。",
+      "pron": "Zhe4 tiao2 he2 fa1yuan2 yu2 Xi3ma3la1ya3 shan1mai4."
+    },
+    "cat": "nature",
+    "id": 13973,
+    "timeAdded": "2020-08-09T18:14:23.493Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a lake",
+        "pl": "jezioro"
+      },
+      "char": "湖",
+      "pron": "hu2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This city is located by a lake.",
+        "pl": "To miasto leży nad brzegiem jeziora."
+      },
+      "char": "这个城市坐落在湖边。",
+      "pron": "Zhe4 ge cheng2shi4 zuo4luo4 zai4 hu2 bian1."
+    },
+    "cat": "nature",
+    "id": 43161,
+    "timeAdded": "2020-08-09T18:17:09.765Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "an island",
+        "pl": "wyspa"
+      },
+      "char": "岛",
+      "pron": "dao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Her friend lives on a tiny island.",
+        "pl": "Jej koleżanka mieszka na małej wyspie."
+      },
+      "char": "她的朋友住在一个小岛上。",
+      "pron": "Ta1 de peng2you zhu4 zai4 yi1 ge xiao3 dao3 shang4."
+    },
+    "cat": "nature",
+    "id": 38954,
+    "timeAdded": "2020-08-09T18:19:02.857Z"
   }
 ]
