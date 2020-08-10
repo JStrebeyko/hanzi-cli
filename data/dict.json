@@ -3788,5 +3788,47 @@
     "cat": "nature",
     "id": 38954,
     "timeAdded": "2020-08-09T18:19:02.857Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a forest",
+        "pl": "las"
+      },
+      "char": "森林",
+      "pron": "sen1lin2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In the weekend will go to the forest for mashrooming.",
+        "pl": "W weekend idziemy do lasu na grzyby."
+      },
+      "char": "周末我们到森林里去采蘑菇。",
+      "pron": "Zhou1mo4 wo3men dao4 sen1lin2 li3 qu4 cai3 mo2gu."
+    },
+    "cat": "nature",
+    "id": 82082,
+    "timeAdded": "2020-08-10T17:49:06.161Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a desert",
+        "pl": "pustynia"
+      },
+      "char": "沙漠",
+      "pron": "sha1mo4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They rode through the world's biggest desert on camels.",
+        "pl": "Pokonali na wielbłądach największą pustynię świata,"
+      },
+      "char": "他们骑着骆驼穿过了世界最大的沙漠。",
+      "pron": "Ta1men qi2zhe luo2tuo chian1guo4 le shi4jie4 zui4da4 de sha1mo4."
+    },
+    "cat": "nature",
+    "id": 15339,
+    "timeAdded": "2020-08-10T17:53:51.172Z"
   }
 ]
