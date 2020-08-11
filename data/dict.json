@@ -3830,5 +3830,47 @@
     "cat": "nature",
     "id": 15339,
     "timeAdded": "2020-08-10T17:53:51.172Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a meadow",
+        "pl": "łąka"
+      },
+      "char": "草地",
+      "pron": "cao3di4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Let's rest a while on a meadow.",
+        "pl": "Odpocznijmy chwilę na łące."
+      },
+      "char": "我们在草地上休息一会儿吧。",
+      "pron": "Wo3men zai4 cao3di4 shang4 xiu1xi yi1huir3 ba."
+    },
+    "cat": "nature",
+    "id": 60860,
+    "timeAdded": "2020-08-11T19:51:08.641Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a waterfall",
+        "pl": "wodospad"
+      },
+      "char": "瀑布",
+      "pron": "pu4bu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "There are few big waterfalls in our country.",
+        "pl": "W naszym kraju jest kilka dużych wodospadów."
+      },
+      "char": "我们国家有几个大瀑布。",
+      "pron": "Wo3men guo2jia1 you3 ji3 ge da4 pu4bu4."
+    },
+    "cat": "nature",
+    "id": 23411,
+    "timeAdded": "2020-08-11T19:53:10.092Z"
   }
 ]
