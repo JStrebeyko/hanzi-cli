@@ -3872,5 +3872,47 @@
     "cat": "nature",
     "id": 23411,
     "timeAdded": "2020-08-11T19:53:10.092Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "weather",
+        "pl": "pogoda"
+      },
+      "char": "天气",
+      "pron": "tian1qi4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What is the weather today?",
+        "pl": "Jaka jest dziś pogoda?"
+      },
+      "char": "今天天气怎么样？",
+      "pron": "Jin1tian1 tian1qi4 zen3meyang4?"
+    },
+    "cat": "nature",
+    "id": 79939,
+    "timeAdded": "2020-08-12T19:43:31.789Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "sky",
+        "pl": "niebo"
+      },
+      "char": "天",
+      "pron": "tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In the sky we saw an eagle.",
+        "pl": "Zobaczyliśmy na niebie orła."
+      },
+      "char": "在天上我们看到了一只老鹰。",
+      "pron": "Zai4 tian1 shang4 wo3men kan4dao4 le yi1 zhi1 lao3ing1."
+    },
+    "cat": "nature",
+    "id": 2861,
+    "timeAdded": "2020-08-12T19:46:06.414Z"
   }
 ]
