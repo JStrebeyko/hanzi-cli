@@ -3914,5 +3914,47 @@
     "cat": "nature",
     "id": 2861,
     "timeAdded": "2020-08-12T19:46:06.414Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a cloud",
+        "pl": "chmura"
+      },
+      "char": "云",
+      "pron": "yun2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Today there are no clouds in the sky.",
+        "pl": "Dziś na niebie nie ma chmur."
+      },
+      "char": "今天天上没有云。",
+      "pron": "Jin1tian1 tian1 shang4 mei4 you3 yun2."
+    },
+    "cat": "nature",
+    "id": 13581,
+    "timeAdded": "2020-08-13T20:48:59.069Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "rain",
+        "pl": "deszcz"
+      },
+      "char": "雨",
+      "pron": "yu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Once I left home, it suddenly started raining.",
+        "pl": "Jak tylko wyszedłem z domu, zaczął padać deszcz."
+      },
+      "char": "我一离开家就开始下雨了。",
+      "pron": "Wo3 yi1 li2kai1 jia1 jiu4 kai1shi3 xia4 yu3 le."
+    },
+    "cat": "nature",
+    "id": 37106,
+    "timeAdded": "2020-08-13T20:52:29.915Z"
   }
 ]
