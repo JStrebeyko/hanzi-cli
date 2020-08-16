@@ -3956,5 +3956,131 @@
     "cat": "nature",
     "id": 37106,
     "timeAdded": "2020-08-13T20:52:29.915Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "snow",
+        "pl": "śnieg"
+      },
+      "char": "雪",
+      "pron": "xue3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "It will snow in a moment.",
+        "pl": "Zaraz będzie padał śnieg."
+      },
+      "char": "快要下雪了",
+      "pron": "Kaui4 yao4 xia4 xue3 le."
+    },
+    "cat": "nature",
+    "id": 28041,
+    "timeAdded": "2020-08-16T15:00:14.468Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "wind",
+        "pl": "wiatr"
+      },
+      "char": "风",
+      "pron": "feng1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Tomorrow a strong wind will blow.",
+        "pl": "Jutro będzie wiał silny wiatr."
+      },
+      "char": "明天要刮大风。",
+      "pron": "Ming2tian1 yao4 gua1 da4 feng1."
+    },
+    "cat": "nature",
+    "id": 7934,
+    "timeAdded": "2020-08-16T15:02:28.978Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a bright day",
+        "pl": "pogodny dzień"
+      },
+      "char": "晴天",
+      "pron": "qing2tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I hope tomorrow will be sunny.",
+        "pl": "Mam nadzieję, że jutro będzie pogodny dzień."
+      },
+      "char": "我希望明天是晴天。",
+      "pron": "Wo3 xi1wang4 ming2tian1 shi4 qing2tian1."
+    },
+    "cat": "nature",
+    "id": 83380,
+    "timeAdded": "2020-08-16T15:05:33.696Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a clody day.",
+        "pl": "pochmurny dzień"
+      },
+      "char": "阴天",
+      "pron": "yin1tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Today is a cloudy day.",
+        "pl": "Dzisiaj jest pochmurny dzień."
+      },
+      "char": "今天是阴天。",
+      "pron": "Jin1tian1 shi4 yin1tian1."
+    },
+    "cat": "nature",
+    "id": 20809,
+    "timeAdded": "2020-08-16T15:07:13.307Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a plant",
+        "pl": "roślina"
+      },
+      "char": "植物",
+      "pron": "zhi2wu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What is this plant?",
+        "pl": "Co to za roślina?"
+      },
+      "char": "这是什么植物？",
+      "pron": "Zhe4 shi4 shen2me zhi2wu4."
+    },
+    "cat": "nature",
+    "id": 46805,
+    "timeAdded": "2020-08-16T15:09:34.751Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a tree",
+        "pl": "drzewo"
+      },
+      "char": "树",
+      "pron": "shu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In front of the house there is a big tree.",
+        "pl": "Przed domem rośnie duże drzewo."
+      },
+      "char": "房子的前面有一棵大树。",
+      "pron": "Fang2zi de qian2mian you3 yi1 ke1 da4 shu4."
+    },
+    "cat": "nature",
+    "id": 52312,
+    "timeAdded": "2020-08-16T15:11:25.034Z"
   }
 ]
