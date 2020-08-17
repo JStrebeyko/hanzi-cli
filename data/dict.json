@@ -4082,5 +4082,47 @@
     "cat": "nature",
     "id": 52312,
     "timeAdded": "2020-08-16T15:11:25.034Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a flower",
+        "pl": "kwiat"
+      },
+      "char": "花儿",
+      "pron": "huar1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Picking flowers is forbidden.",
+        "pl": "Nie wolno zrywać kwiatów."
+      },
+      "char": "不要摘花儿。",
+      "pron": "Bu4 yao4 zhai1 huar1."
+    },
+    "cat": "nature",
+    "id": 45798,
+    "timeAdded": "2020-08-17T18:30:11.493Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "grass",
+        "pl": "trawa"
+      },
+      "char": "草",
+      "pron": "cao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to mow grass",
+        "pl": "kosić trawę"
+      },
+      "char": "割草",
+      "pron": "ge1 cao3"
+    },
+    "cat": "nature",
+    "id": 46337,
+    "timeAdded": "2020-08-17T18:31:37.353Z"
   }
 ]
