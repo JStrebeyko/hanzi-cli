@@ -4124,5 +4124,47 @@
     "cat": "nature",
     "id": 46337,
     "timeAdded": "2020-08-17T18:31:37.353Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to buy",
+        "pl": "kupować"
+      },
+      "char": "买",
+      "pron": "mai3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What do you want to buy?",
+        "pl": "Co chcesz kupić?"
+      },
+      "char": "你要买什么？",
+      "pron": "Ni3 yao4 mai3 she2nme?"
+    },
+    "cat": "market",
+    "id": 80178,
+    "timeAdded": "2020-08-19T21:14:26.283Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to sell",
+        "pl": "sprzedawać"
+      },
+      "char": "卖",
+      "pron": "mai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This man wants to sell his motorcycle.",
+        "pl": "Ten mężczyzna chce sprzedać swój motor."
+      },
+      "char": "这个男人要卖他的摩托车。",
+      "pron": "Zhe4 ge nan2ren2 yao4 mai4 ta de mo2tuo1che1."
+    },
+    "cat": "market",
+    "id": 17595,
+    "timeAdded": "2020-08-19T21:17:45.775Z"
   }
 ]
