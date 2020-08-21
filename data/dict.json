@@ -4166,5 +4166,152 @@
     "cat": "market",
     "id": 17595,
     "timeAdded": "2020-08-19T21:17:45.775Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "money",
+        "pl": "pieniądze"
+      },
+      "char": "钱",
+      "pron": "qian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He does not have money to buy a new car.",
+        "pl": "On nie ma pieniędzy na nowy samochód."
+      },
+      "char": "他没有钱买新汽车。",
+      "pron": "Ta1 mei2 you3 qian2 mai3 xin1 qi4che1."
+    },
+    "cat": "market",
+    "id": 45226,
+    "timeAdded": "2020-08-21T20:58:20.967Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "how much does it cost?",
+        "pl": "ile kosztuje?"
+      },
+      "char": "多少钱？",
+      "pron": "duo1shao qian2?"
+    },
+    "sentence": {
+      "trans": {
+        "en": "How much does this thing cost?",
+        "pl": "Ile ta rzecz kosztuje?"
+      },
+      "char": "这个东西多少钱？",
+      "pron": "Zhe4 ge dong1xi duo1shao qian2?"
+    },
+    "cat": "market",
+    "id": 30524,
+    "timeAdded": "2020-08-21T21:00:26.593Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "expensive",
+        "pl": "drogi"
+      },
+      "char": "贵",
+      "pron": "gui4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "It's too expensive!",
+        "pl": "Za drogo!"
+      },
+      "char": "太贵了！",
+      "pron": "Tai4 gui4 le!"
+    },
+    "cat": "market",
+    "id": 32214,
+    "timeAdded": "2020-08-21T21:01:38.121Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "cheap",
+        "pl": "tani"
+      },
+      "char": "便宜",
+      "pron": "pian2yi"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Kids clothes are not cheap at all.",
+        "pl": "Ubrania dla dzieci wcale nie są tanie."
+      },
+      "char": "儿童衣服并不便宜。",
+      "pron": "Er2tong2 yi1fu bing4 bu4 pian2yi."
+    },
+    "cat": "market",
+    "id": 8821,
+    "timeAdded": "2020-08-21T21:04:27.903Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "price",
+        "pl": "cena"
+      },
+      "char": "价格",
+      "pron": "jia4ge2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Gas price keep on going up.",
+        "pl": "Cena benzyny jest coraz wyższa."
+      },
+      "char": "汽油的价格越来越高。",
+      "pron": "Qi4you2 de jia4ge2 yue4 lai2 yue4 gao1."
+    },
+    "cat": "market",
+    "id": 4417,
+    "timeAdded": "2020-08-21T21:07:29.569Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to bargain",
+        "pl": "targować się"
+      },
+      "char": "讨价还价",
+      "pron": "tao3jia4 huan2jia4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I hate to bargain.",
+        "pl": "Nie znoszę się targować."
+      },
+      "char": "我讨厌讨价还价。",
+      "pron": "Wo3 tao3yan4 tao3jia4 huan2jia4."
+    },
+    "cat": "market",
+    "id": 34422,
+    "timeAdded": "2020-08-21T21:09:54.766Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "do give a discount",
+        "pl": "dawać rabat"
+      },
+      "char": "打折扣",
+      "pron": "da3 zhe2kou4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Sorry, we do not give discounts.",
+        "pl": "Przykro mi, nie dajemy rabatów."
+      },
+      "char": "不好意思，我们不打折扣。",
+      "pron": "Bu4 hao3yi4si, wo3men bu4 da3 zhe2kou4."
+    },
+    "cat": "market",
+    "id": 82417,
+    "timeAdded": "2020-08-21T21:12:17.614Z"
   }
 ]
