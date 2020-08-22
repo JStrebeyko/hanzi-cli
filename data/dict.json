@@ -4313,5 +4313,68 @@
     "cat": "market",
     "id": 82417,
     "timeAdded": "2020-08-21T21:12:17.614Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "sale",
+        "pl": "wyprzedaż"
+      },
+      "char": "甩卖",
+      "pron": "shuai3mai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "During sales, I buy a lot of unnecessary things.",
+        "pl": "W czasie wyprzedaży kupuję dużo niepotrzebnych rzeczy."
+      },
+      "char": "甩卖时，我买很多不需要的东西。",
+      "pron": "Shuai3mai4 shi2, wo3 mai3 hen3 duo1 bu4 xu1yao4 de dong1xi."
+    },
+    "cat": "market",
+    "id": 67417,
+    "timeAdded": "2020-08-22T14:48:51.336Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "free",
+        "pl": "darmowy, za darmo"
+      },
+      "char": "免费",
+      "pron": "mian3fei4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Is it free?",
+        "pl": "Czy to jest za darmo?"
+      },
+      "char": "这是不是免费的？",
+      "pron": "Zhe4 shi4 bu shi4 mian3fei4 de?"
+    },
+    "cat": "market",
+    "id": 78388,
+    "timeAdded": "2020-08-22T14:50:09.832Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a shop",
+        "pl": "sklep"
+      },
+      "char": "商店",
+      "pron": "shang1dian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "That shop sells toys.",
+        "pl": "Tamten sklep sprzedaje zabawki."
+      },
+      "char": "那家商店出售玩具。",
+      "pron": "Na4 jia1 shang1dian4 chu1shou4 wan2ju4."
+    },
+    "cat": "market",
+    "id": 57401,
+    "timeAdded": "2020-08-22T14:51:44.773Z"
   }
 ]
