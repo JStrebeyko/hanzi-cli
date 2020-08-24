@@ -4376,5 +4376,68 @@
     "cat": "market",
     "id": 57401,
     "timeAdded": "2020-08-22T14:51:44.773Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "supermarket",
+        "pl": "supermarket"
+      },
+      "char": "超市",
+      "pron": "chao1shi4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Near our home there are two supermarkets.",
+        "pl": "W pobliżu naszego domu są dwa supermarkety."
+      },
+      "char": "我们家附近有两家超市。",
+      "pron": "Wo3men jia1 fu4jin4 you3 liang3 jia1 chao1shi4."
+    },
+    "cat": "market",
+    "id": 41090,
+    "timeAdded": "2020-08-24T18:51:14.608Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "market",
+        "pl": "targ, rynek"
+      },
+      "char": "市场",
+      "pron": "shi4chang3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Her older sister goes to market to buy vegetables and fruits.",
+        "pl": "Jej starsza siostra idzie na targ kupić warzywa i owoce."
+      },
+      "char": "她姐姐去市场买蔬菜和水果。",
+      "pron": "Ta1 jie3jie qu4 shi4chang3 mai3 shu1cai4 he2 shui3guo3."
+    },
+    "cat": "market",
+    "id": 24617,
+    "timeAdded": "2020-08-24T18:58:12.994Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a mall",
+        "pl": "centrum handlowe"
+      },
+      "char": "购物中心",
+      "pron": "gou4wu4 zhong1xi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Young people like to shop at a mall.",
+        "pl": "Młodzi ludzie lubią robić zakupy w centrach handlowych."
+      },
+      "char": "年轻人喜欢在购物中心买东西。",
+      "pron": "Nian2qing1 ren2 xi3huan zai4 gou4wu4 zhong1xin1 mai3 dong1xi."
+    },
+    "cat": "market",
+    "id": 21987,
+    "timeAdded": "2020-08-24T19:12:13.933Z"
   }
 ]
