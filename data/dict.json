@@ -4439,5 +4439,89 @@
     "cat": "market",
     "id": 21987,
     "timeAdded": "2020-08-24T19:12:13.933Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a client",
+        "pl": "klient"
+      },
+      "char": "顾客",
+      "pron": "gu4ke4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This shop's clients are always very satisfied.",
+        "pl": "Klienci tego sklepu są zawsze bardzo zadowoleni."
+      },
+      "char": "这家商店的顾客总是很满意。",
+      "pron": "Zhe4 jia1 shang1dian4 de gu4ke4 zong3shi4 hen3 man3yi4."
+    },
+    "cat": "market",
+    "id": 8116,
+    "timeAdded": "2020-08-26T18:11:28.392Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "cash desk",
+        "pl": "kasa"
+      },
+      "char": "收银台",
+      "pron": "shou1yin2tai2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Please walk up to cash desk to pay.",
+        "pl": "Proszę udać się do kasy w celu dokonania zapłaty."
+      },
+      "char": "请到收银台付钱。",
+      "pron": "Qing3 dao4 shou1yin2tai2 fu4qian2."
+    },
+    "cat": "market",
+    "id": 1221,
+    "timeAdded": "2020-08-26T18:26:53.328Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to pay",
+        "pl": "płacić"
+      },
+      "char": "付钱",
+      "pron": "fu4qian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Are you paying with cash or with card?",
+        "pl": "Płacicie gotówką czy kartą?"
+      },
+      "char": "你们用现金还是用信用卡付钱？",
+      "pron": "Ni3men yong4 xian4jin1 hai2shi yong4 xin4yong4ka3 fu4qian2?"
+    },
+    "cat": "market",
+    "id": 60136,
+    "timeAdded": "2020-08-26T18:33:46.752Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to start working hours (about an establishment)",
+        "pl": "otwierać (o godzinach pracy)"
+      },
+      "char": "开门",
+      "pron": "kai1men2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What time does the postal office open?",
+        "pl": "O której otwierają pocztę?"
+      },
+      "char": "邮局几点开门？",
+      "pron": "You2ju2 ji3 dian3 kai1men2?"
+    },
+    "cat": "market",
+    "id": 47518,
+    "timeAdded": "2020-08-26T18:36:58.896Z"
   }
 ]
