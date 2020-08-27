@@ -4523,5 +4523,47 @@
     "cat": "market",
     "id": 47518,
     "timeAdded": "2020-08-26T18:36:58.896Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to close an establishment",
+        "pl": "zamykać (o godzinach pracy)"
+      },
+      "char": "关门",
+      "pron": "guan1men2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This restaurant closes at midnight.",
+        "pl": "Ta restauracja zamyka się o dwunastej w nocy."
+      },
+      "char": "这家饭馆儿晚上十二点关门。",
+      "pron": "Zhe4 jia1 fan4guanr3 wan3shang shi2 er4 dian3 guan1men2."
+    },
+    "cat": "market",
+    "id": 12966,
+    "timeAdded": "2020-08-27T18:32:30.182Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to travel",
+        "pl": "podróżować"
+      },
+      "char": "旅游",
+      "pron": "lu3you2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Where will you travel to this year?",
+        "pl": "Dokąd jedziecie w podróż w tym roku?"
+      },
+      "char": "你们今年到哪儿去旅游？",
+      "pron": "Ni3men jin1nian2 dao4 nar3 qu4 lu3you2?"
+    },
+    "cat": "travel",
+    "id": 43708,
+    "timeAdded": "2020-08-27T18:38:11.806Z"
   }
 ]
