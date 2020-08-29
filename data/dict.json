@@ -4565,5 +4565,47 @@
     "cat": "travel",
     "id": 43708,
     "timeAdded": "2020-08-27T18:38:11.806Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a tourist",
+        "pl": "turysta"
+      },
+      "char": "旅游者",
+      "pron": "lu3you2zhe3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "The scenery here draws in many tourists each year.",
+        "pl": "Tutejszy krajobraz co roku przyciąga wielu turystów."
+      },
+      "char": "这里的景色每天吸引许多旅游者。",
+      "pron": "Zhe4li3 de jing3se4 mei3nian2 xi1yin3 xu3duo1 lu3you2zhe3."
+    },
+    "cat": "travel",
+    "id": 74982,
+    "timeAdded": "2020-08-29T07:41:10.140Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a hotel",
+        "pl": "hotel"
+      },
+      "char": "旅馆",
+      "pron": "lu3guan3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They are staying in a luxurious hotel.",
+        "pl": "Oni mieszkają w luksusowym hotelu."
+      },
+      "char": "他们住在豪华的旅馆。",
+      "pron": "Ta1men zhu4 zai4 hao2hua2 de lu3guan3."
+    },
+    "cat": "travel",
+    "id": 78464,
+    "timeAdded": "2020-08-29T07:46:10.851Z"
   }
 ]
