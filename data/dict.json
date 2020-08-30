@@ -4607,5 +4607,68 @@
     "cat": "travel",
     "id": 78464,
     "timeAdded": "2020-08-29T07:46:10.851Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a tent",
+        "pl": "namiot"
+      },
+      "char": "帐篷",
+      "pron": "zhang4peng"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to set up a tent",
+        "pl": "rozbijać namiot"
+      },
+      "char": "搭帐篷",
+      "pron": "da1 zhang4peng"
+    },
+    "cat": "travel",
+    "id": 97382,
+    "timeAdded": "2020-08-30T18:18:37.422Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to book",
+        "pl": "rezerwować"
+      },
+      "char": "预订",
+      "pron": "yu4ding4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Did you book a room?",
+        "pl": "Czy zarezerwowałeś pokój?"
+      },
+      "char": "你预订了房间马？",
+      "pron": "Ni3 yu4ding4 le fang2jian1 ma?"
+    },
+    "cat": "travel",
+    "id": 42656,
+    "timeAdded": "2020-08-30T18:20:37.679Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a travel guide",
+        "pl": "przewodnik (książka)"
+      },
+      "char": "旅游指南",
+      "pron": "lu3you2 zhi3nan2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I want to buy a Paris travel guide.",
+        "pl": "Chcę kupić przewodnik po Paryżu."
+      },
+      "char": "我想买一本巴黎指南。",
+      "pron": "Wo3 xiang3 mai3 yi1 ben3 Ba1li2 lu3you2 zhi3nan2."
+    },
+    "cat": "travel",
+    "id": 16960,
+    "timeAdded": "2020-08-30T18:25:44.170Z"
   }
 ]
