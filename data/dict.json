@@ -4670,5 +4670,47 @@
     "cat": "travel",
     "id": 16960,
     "timeAdded": "2020-08-30T18:25:44.170Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a compass",
+        "pl": "kompas"
+      },
+      "char": "指南针",
+      "pron": "zhi3nan2zhen1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A compass is one of four Chinese great inventions.",
+        "pl": "Kompas jest jednym z czterech wielkich chińskich wynalazków."
+      },
+      "char": "指南针是中国的四发明之一。",
+      "pron": "Zhi3nan2zhen1 shi4 Zhong1guo2 de si4 da4 da4 da1ming2 zhi1 yi1."
+    },
+    "cat": "travel",
+    "id": 42832,
+    "timeAdded": "2020-08-31T20:24:08.511Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a map",
+        "pl": "mapa"
+      },
+      "char": "地图",
+      "pron": "di4tu2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This map is very useful.",
+        "pl": "Ta mapa jest bardzo przydatna."
+      },
+      "char": "这张地图很有用。",
+      "pron": "Zhe4 zhang1 di4tu2 hen3 you3yong4."
+    },
+    "cat": "travel",
+    "id": 61255,
+    "timeAdded": "2020-08-31T20:25:20.888Z"
   }
 ]
