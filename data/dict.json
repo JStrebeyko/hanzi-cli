@@ -4712,5 +4712,47 @@
     "cat": "travel",
     "id": 61255,
     "timeAdded": "2020-08-31T20:25:20.888Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a guide (person)",
+        "pl": "przewodnik (osoba)"
+      },
+      "char": "导游",
+      "pron": "dao3you2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "A guide told tourists that place's history.",
+        "pl": "Przewodnik opowiedział zwiedzającym historię tego miejsca."
+      },
+      "char": "导游给观光者介绍那个地方的历史。",
+      "pron": "Dao3you2 gei3 guan1guang1zhe3 jie4shao4 na4 ge di4fang de li4shi3."
+    },
+    "cat": "travel",
+    "id": 23358,
+    "timeAdded": "2020-09-01T21:16:24.538Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a ticket",
+        "pl": "bilet"
+      },
+      "char": "票",
+      "pron": "piao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Are there student tickets?",
+        "pl": "Czy są bilety uczniowskie?"
+      },
+      "char": "有没有学生票？",
+      "pron": "You3 mei2 you3 xue2sheng piao4?"
+    },
+    "cat": "travel",
+    "id": 96984,
+    "timeAdded": "2020-09-01T21:18:03.491Z"
   }
 ]
