@@ -4754,5 +4754,47 @@
     "cat": "travel",
     "id": 96984,
     "timeAdded": "2020-09-01T21:18:03.491Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a museum",
+        "pl": "muzeum"
+      },
+      "char": "博物馆",
+      "pron": "bo2wu4guan3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What museum are you going to visit tomorrow?",
+        "pl": "Jakie muzeum idziecie jutro zwiedzać?"
+      },
+      "char": "你们明天去参观什么博物馆？",
+      "pron": "Ni3men ming2tian1 qu4 can1guan1 shen2me bo2wu4guan3?"
+    },
+    "cat": "travel",
+    "id": 8773,
+    "timeAdded": "2020-09-02T21:58:57.072Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "an old town",
+        "pl": "Stare Miasto"
+      },
+      "char": "古城",
+      "pron": "gu3cheng2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Excuse me, how to get to the old town?",
+        "pl": "Przepraszam, jak dojść na Stare Miasto?"
+      },
+      "char": "请问，到古城怎么走？",
+      "pron": "Qing3wen4, dao4 gu3cheng2 zen3me zou3?"
+    },
+    "cat": "travel",
+    "id": 97331,
+    "timeAdded": "2020-09-02T22:03:02.927Z"
   }
 ]
