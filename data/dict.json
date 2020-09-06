@@ -4796,5 +4796,173 @@
     "cat": "travel",
     "id": 97331,
     "timeAdded": "2020-09-02T22:03:02.927Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to sightsee",
+        "pl": "zwiedzać"
+      },
+      "char": "观光",
+      "pron": "guan1guang1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What interesting places have you sightseen this year?",
+        "pl": "Jakie interesujące miejsca zwiedziliście w tym roku?"
+      },
+      "char": "今年你们观光过什么有意思的地方？",
+      "pron": "Jin1nian2 ni3men guan1guang1guo shen4me you3 yi4si de di4fang?"
+    },
+    "cat": "travel",
+    "id": 667,
+    "timeAdded": "2020-09-06T17:44:15.693Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a souvenir",
+        "pl": "pamiątka"
+      },
+      "char": "纪念品",
+      "pron": "ji4nian4pin3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In the afternoon we will go to buy souvenirs, ok?",
+        "pl": "Po południu pójdziemy kupić pamiątki, dobrze?"
+      },
+      "char": "下午我们去买纪念品，好吗?",
+      "pron": "Xia4wu3 wo3men qu4 mai3 ji4nian4pin3, hao3 ma?"
+    },
+    "cat": "travel",
+    "id": 22537,
+    "timeAdded": "2020-09-06T17:47:59.813Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a postcard",
+        "pl": "pocztówka"
+      },
+      "char": "明信片",
+      "pron": "ming2xin4pian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He sends me a postcard each time he travels.",
+        "pl": "Przesyła mi pocztówkę zawsze, kiedy wyjeżdża w podróż."
+      },
+      "char": "他每次去旅游都给我奇一张明信片",
+      "pron": "Ta1 mei3 ci4 qu4 lu3you2 dou1 gei3 wo3 ji4 yi1 zhang1 ming2xin4pian4."
+    },
+    "cat": "travel",
+    "id": 15667,
+    "timeAdded": "2020-09-06T17:54:35.766Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a passport",
+        "pl": "paszport"
+      },
+      "char": "护照",
+      "pron": "hu4zhao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Where is your passport, sir?",
+        "pl": "Gdzie jest pana paszport?"
+      },
+      "char": "您的护照在哪儿？",
+      "pron": "Nin2 de hu4zhao4 zai4 nar3?"
+    },
+    "cat": "travel",
+    "id": 2109,
+    "timeAdded": "2020-09-06T17:59:24.291Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a visa",
+        "pl": "wiza"
+      },
+      "char": "签证",
+      "pron": "qian1zheng4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to apply for a visa",
+        "pl": "składać podanie o wizę"
+      },
+      "char": "申请签证",
+      "pron": "shen1qing3 qian1zheng4"
+    },
+    "cat": "travel",
+    "id": 87162,
+    "timeAdded": "2020-09-06T18:01:54.258Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "baggage",
+        "pl": "bagaż"
+      },
+      "char": "行李",
+      "pron": "xing2li"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Can I put the baggage here?",
+        "pl": "Czy mogę tu położyć bagaż?"
+      },
+      "char": "我可以把行李放在这儿马？",
+      "pron": "Wo3 ke3yi3 xing2li fang4 zai4 zher4 ma?"
+    },
+    "cat": "travel",
+    "id": 30805,
+    "timeAdded": "2020-09-06T18:04:50.568Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a backpack",
+        "pl": "plecak"
+      },
+      "char": "背包",
+      "pron": "bei4bao1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "This backpack looks heavy.",
+        "pl": "Ten plecak wygląda na bardzo ciężki."
+      },
+      "char": "这个背包看起来很重。",
+      "pron": "Zhe4 ge bei4bao1 kan4 qi3lai2 hen3 zhong4."
+    },
+    "cat": "travel",
+    "id": 89974,
+    "timeAdded": "2020-09-06T18:07:22.363Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "summer vacations",
+        "pl": "wakacje letnie"
+      },
+      "char": "暑假",
+      "pron": "shu3jia4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "How did you spend summer vacations?",
+        "pl": "Jak spędziłeś wakacje?"
+      },
+      "char": "你暑假过得怎么样？",
+      "pron": "Ni3 shu3jia4 guo4 de zen3meyang4?"
+    },
+    "cat": "travel",
+    "id": 1131,
+    "timeAdded": "2020-09-06T18:09:17.120Z"
   }
 ]
