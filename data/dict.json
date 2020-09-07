@@ -4964,5 +4964,47 @@
     "cat": "travel",
     "id": 1131,
     "timeAdded": "2020-09-06T18:09:17.120Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "winter holidays",
+        "pl": "ferie zimowe"
+      },
+      "char": "寒假",
+      "pron": "han2jia4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What are your plans for winter holidays?",
+        "pl": "Jakie masz plany na ferie zimowe?"
+      },
+      "char": "你寒假有什么打算？",
+      "pron": "Ni3 han2jia4 you3 shen2me da3suan?"
+    },
+    "cat": "travel",
+    "id": 15563,
+    "timeAdded": "2020-09-07T18:43:16.948Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to spend holdays",
+        "pl": "spędzać wakacje"
+      },
+      "char": "度假",
+      "pron": "du4jia4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My boyfriend thinks that spending holidays at seaside is boring.",
+        "pl": "Mój chłopak uważa, że spędzanie wakacji nad morzem jest nudne."
+      },
+      "char": "我男朋友认为在海边度假很无聊。",
+      "pron": "Wo3 nan2peng2you ren4wei2 zai4 hai3bian1 du4jia4 hen3 wu2liao2."
+    },
+    "cat": "travel",
+    "id": 92039,
+    "timeAdded": "2020-09-07T18:47:37.038Z"
   }
 ]
