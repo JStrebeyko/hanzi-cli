@@ -5006,5 +5006,89 @@
     "cat": "travel",
     "id": 92039,
     "timeAdded": "2020-09-07T18:47:37.038Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "famous tourist attractions",
+        "pl": "znane atrakcje turystyczne"
+      },
+      "char": "名胜古迹",
+      "pron": "ming2sheng4 gu3ji1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "There are many famous tourist attractions in China.",
+        "pl": "W Chinach jest wiele znanych atrakcji turystycznych."
+      },
+      "char": "中国有许多名胜古迹。",
+      "pron": "Zhong1guo2 you3 xu3duo1 ming2sheng4 gu3ji1."
+    },
+    "cat": "travel",
+    "id": 19217,
+    "timeAdded": "2020-09-09T19:09:27.225Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "time (a period of)",
+        "pl": "czas (okres)"
+      },
+      "char": "时间",
+      "pron": "shi2jian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "For how long have you been living in England?",
+        "pl": "Jak długo mieszkasz w Anglii?"
+      },
+      "char": "你住在英国多长时间了？",
+      "pron": "Ni3 zhu4 zai4 Ying1guo2 duo1 chang2 shi2jian1 le?"
+    },
+    "cat": "time",
+    "id": 96790,
+    "timeAdded": "2020-09-09T19:13:19.530Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "time (a moment in)",
+        "pl": "czas (punkt)"
+      },
+      "char": "时候",
+      "pron": "shi2hou"
+    },
+    "sentence": {
+      "trans": {
+        "en": "At that time they did not have kids yet.",
+        "pl": "Wówczas nie mieli jeszcze dzieci."
+      },
+      "char": "那时候他们还没有孩子。",
+      "pron": "Na4 shi2hou ta1men hai2 mei2 you3 hai2zi."
+    },
+    "cat": "time",
+    "id": 96472,
+    "timeAdded": "2020-09-09T19:17:11.323Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "when?",
+        "pl": "kiedy?"
+      },
+      "char": "什么时候?",
+      "pron": "shen2me shi2hou?"
+    },
+    "sentence": {
+      "trans": {
+        "en": "When will you graduate?",
+        "pl": "Kiedy skończycie szkołę?"
+      },
+      "char": "你们什么时候毕业？",
+      "pron": "Ni3men shen2me shi2hou bi4ye4?"
+    },
+    "cat": "time",
+    "id": 2272,
+    "timeAdded": "2020-09-09T19:20:35.746Z"
   }
 ]
