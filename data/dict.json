@@ -5090,5 +5090,215 @@
     "cat": "time",
     "id": 2272,
     "timeAdded": "2020-09-09T19:20:35.746Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a second",
+        "pl": "sekunda"
+      },
+      "char": "秒",
+      "pron": "miao3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Lili was ten seconds faster than me.",
+        "pl": "Lili była ode mnie szybsza o dziesięć sekund."
+      },
+      "char": "莉莉比我快十秒。",
+      "pron": "Li4li bi3 wo3 kuai4 shi2 miao3."
+    },
+    "cat": "time",
+    "id": 14592,
+    "timeAdded": "2020-09-14T19:56:56.433Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a minute (period)",
+        "pl": "minuta (okres)"
+      },
+      "char": "分钟",
+      "pron": "fen1zhong1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "You are ten minites late, the exam has already started.",
+        "pl": "Spóźniłeś się dziesięć minut, egzamin już się zaczął."
+      },
+      "char": "你迟到了十分种，考试已经开始了。",
+      "pron": "Ni3 chi2dao4 le shi2 fen1zhong1, kao3shi4 yi3jing1 kai1shi3 le."
+    },
+    "cat": "time",
+    "id": 2289,
+    "timeAdded": "2020-09-14T20:01:00.690Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "minute (a point in time)",
+        "pl": "minuta (przy podawaniu godziny)"
+      },
+      "char": "分",
+      "pron": "fen1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Everyday I get up at quarter past seven.",
+        "pl": "Codziennie wstaję kwadrans po siódmej."
+      },
+      "char": "我每天七点十五分起床。",
+      "pron": "Wo3 mei3tian1 qi1 dian3 shi2wu3 fen1 qi3 chuang2."
+    },
+    "cat": "time",
+    "id": 26978,
+    "timeAdded": "2020-09-14T20:06:06.269Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "an hour (period)",
+        "pl": "godzina (okres)"
+      },
+      "char": "小时",
+      "pron": "xiao3shi2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They played tennis for three hours.",
+        "pl": "Oni grali w tenisa przez trzy godziny."
+      },
+      "char": "他们打网球打了三个小时。",
+      "pron": "Ta1men da3 wang3qiu2 da3 le san1 ge xiao3shi2."
+    },
+    "cat": "time",
+    "id": 29053,
+    "timeAdded": "2020-09-14T20:08:58.900Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "an hour (point in time)",
+        "pl": "godzina (przy podawaniu godziny)"
+      },
+      "char": "点",
+      "pron": "dian3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What hour is it now? Right now it is 8 o'clock.",
+        "pl": "Która jest teraz godzina? Jest ósma."
+      },
+      "char": "现在几点了？ 现在八点了。",
+      "pron": "Xian4zai4 ji3 dian3 le? Xian4zai4 ba1 dian3 le."
+    },
+    "cat": "time",
+    "id": 17997,
+    "timeAdded": "2020-09-14T20:11:45.594Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "day (in a date)",
+        "pl": "dzień (przy podawaniu daty)"
+      },
+      "char": "日",
+      "pron": "ri4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What day is it? It is September the 14th.",
+        "pl": "Który dziś jest? Dziś jest 14. września."
+      },
+      "char": "今天几月几日? 今天九月十四日。",
+      "pron": "Jin1tian1 ji3 yue4 ji3 ri4? Jin1tian1 jiu3yue shi2si1ri2."
+    },
+    "cat": "time",
+    "id": 65384,
+    "timeAdded": "2020-09-14T20:22:51.745Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a day",
+        "pl": "dzień"
+      },
+      "char": "天",
+      "pron": "tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We spent in London ten days.",
+        "pl": "Spędziliśmy w Londynie dziesięć dni."
+      },
+      "char": "我们在伦敦待了十天。",
+      "pron": "Wo3men zai4 Lun2dun1 dai4 le shi2 tian1."
+    },
+    "cat": "time",
+    "id": 31825,
+    "timeAdded": "2020-09-14T20:25:16.341Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a week",
+        "pl": "tydzień"
+      },
+      "char": "星期",
+      "pron": "xing1qi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Every week I have one day off.",
+        "pl": "Mam jeden dzień wolny w tygodniu."
+      },
+      "char": "我每个星期休假一天。",
+      "pron": "Wo3 mei3 ge xing1qi1 xiu1jia4 yi1 tian1."
+    },
+    "cat": "time",
+    "id": 66255,
+    "timeAdded": "2020-09-14T20:27:26.114Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a month",
+        "pl": "miesiąc"
+      },
+      "char": "月",
+      "pron": "yue4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She is seven months pregnant.",
+        "pl": "Ona jest w siódmym miesiącu ciąży."
+      },
+      "char": "她怀孕七个月了。",
+      "pron": "Ta1 huai2yun4 qi1 ge yue4 le."
+    },
+    "cat": "time",
+    "id": 88768,
+    "timeAdded": "2020-09-14T20:29:50.787Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "weekend",
+        "pl": "weekend"
+      },
+      "char": "周末",
+      "pron": "zhou1mo4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "While at the university, he was working at a restaurant on weekends.",
+        "pl": "Kiedy studiował na uniwersytecie, w weekendy dorabiał w restauracji."
+      },
+      "char": "上大学的时候，他周末在饭馆儿打工。",
+      "pron": "Shang4 da3xue2 de shi2hou, ta1 zhou1mo4 zai4 fan4guanr3 da3gong1."
+    },
+    "cat": "time",
+    "id": 36723,
+    "timeAdded": "2020-09-14T20:33:54.845Z"
   }
 ]
