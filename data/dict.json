@@ -5300,5 +5300,68 @@
     "cat": "time",
     "id": 36723,
     "timeAdded": "2020-09-14T20:33:54.845Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a month",
+        "pl": "miesiąc"
+      },
+      "char": "月",
+      "pron": "yue4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "She is seven months pregnant.",
+        "pl": "Ona jest w siódmym miesiącu ciąży."
+      },
+      "char": "她怀孕七个月了。",
+      "pron": "Ta1 huai2yun4 qi1 ge yue4 le."
+    },
+    "cat": "time",
+    "id": 68728,
+    "timeAdded": "2020-09-22T17:48:31.129Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a year",
+        "pl": "rok"
+      },
+      "char": "年",
+      "pron": "nian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His son was born in 2004.",
+        "pl": "Jego syn urodził się w 2004 roku."
+      },
+      "char": "他儿子出生于2004年。",
+      "pron": "Ta1 er3zi chu1sheng1 yu2 2004 nian2."
+    },
+    "cat": "time",
+    "id": 42815,
+    "timeAdded": "2020-09-22T17:50:41.847Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "a century",
+        "pl": "wiek"
+      },
+      "char": "世纪",
+      "pron": "shi4ji4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Lightbulb is one of the big inventions of the nineteenth century.",
+        "pl": "Żarówka jest jednym z wielkich wynalazków XIX. wieku."
+      },
+      "char": "灯泡是十九世纪的大发明之一。",
+      "pron": "Deng1pao4 shi4 shi2jiu3 shi4ji4 de da4 fa1ming2 zhi1 yi1."
+    },
+    "cat": "time",
+    "id": 66981,
+    "timeAdded": "2020-09-22T17:55:18.712Z"
   }
 ]
