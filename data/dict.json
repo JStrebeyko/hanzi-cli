@@ -5363,5 +5363,131 @@
     "cat": "time",
     "id": 66981,
     "timeAdded": "2020-09-22T17:55:18.712Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "month",
+        "pl": "miesiąc"
+      },
+      "char": "-月",
+      "pron": "-yue4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "(consequtive months)",
+        "pl": "(kolejne miesiące)"
+      },
+      "char": "一月，二月，三月，四月，五月，六月，七月，八月，九月，十月，十一月，十二月",
+      "pron": "yi1yue4, er4yue4, san1yue4, si4yue4, wu3yue4, liu4yue4, qi1yue4, ba1yue4, jiu3yue4, shi2yue4, shi2yi1yue4, shi2er4yue4"
+    },
+    "cat": "time",
+    "id": 4201,
+    "timeAdded": "2020-09-23T19:10:23.165Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "day of a week",
+        "pl": "dzień tygodnia"
+      },
+      "char": "星期-",
+      "pron": "xing1qi1-"
+    },
+    "sentence": {
+      "trans": {
+        "en": "(consequtive days of a week)",
+        "pl": "(kolejne dni tygodnia)"
+      },
+      "char": "星期一，星期二，星期三，星期四，星期五，星期六，星期天",
+      "pron": "xing1qi1yi, xing1qi1er4, xing1qi1san1, xing1qi1si4, xing1qi1wu, xing1qi1liu4, xing1qi1tian1"
+    },
+    "cat": "time",
+    "id": 54595,
+    "timeAdded": "2020-09-23T19:14:38.595Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "spring",
+        "pl": "wiosna"
+      },
+      "char": "春天",
+      "pron": "chun1tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Spring came.",
+        "pl": "Nadeszła wiosna."
+      },
+      "char": "春天来了。",
+      "pron": "Chun1tian1 lai2 le."
+    },
+    "cat": "time",
+    "id": 78165,
+    "timeAdded": "2020-09-23T19:15:54.694Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "summer",
+        "pl": "lato"
+      },
+      "char": "夏天",
+      "pron": "xia4tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "In the summer many people go on vacations to the seaside.",
+        "pl": "Latem iwelu ludzi jeździ na urlop nad morze."
+      },
+      "char": "夏天许多人到海边去度假。",
+      "pron": "Xia4tian1 xu4duo1 ren2 dao4 hai3bian1 qu4 du4jia4."
+    },
+    "cat": "time",
+    "id": 70341,
+    "timeAdded": "2020-09-23T19:20:07.835Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "autumn",
+        "pl": "jesień"
+      },
+      "char": "秋天",
+      "pron": "qiu1tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "During autumn it often rains.",
+        "pl": "Jesienią często pada deczcz."
+      },
+      "char": "秋天常常下雨。",
+      "pron": "Qiu1tian1 chang2chang2 xia4yu3."
+    },
+    "cat": "time",
+    "id": 54147,
+    "timeAdded": "2020-09-23T19:23:33.965Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "winter",
+        "pl": "zima"
+      },
+      "char": "冬天",
+      "pron": "dong1tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Winter is his favorite season.",
+        "pl": "Zima to jego ulubiona pora roku."
+      },
+      "char": "冬天是他最喜欢的季节。",
+      "pron": "Dong1tian1 shi4 ta1 zui4 xi3huan de ji4jie2."
+    },
+    "cat": "time",
+    "id": 42568,
+    "timeAdded": "2020-09-23T19:25:35.802Z"
   }
 ]
