@@ -5489,5 +5489,131 @@
     "cat": "time",
     "id": 42568,
     "timeAdded": "2020-09-23T19:25:35.802Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "morning",
+        "pl": "rano"
+      },
+      "char": "早上",
+      "pron": "zao3shang"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Every morning he walks his dog.",
+        "pl": "On codzienne rano wyprowadza psa."
+      },
+      "char": "他每天早上遛狗。",
+      "pron": "Ta1 mei3tian1 zao3shang liu4 gou3."
+    },
+    "cat": "time",
+    "id": 47065,
+    "timeAdded": "2020-09-24T19:35:11.894Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "before noon",
+        "pl": "przed południem"
+      },
+      "char": "上午",
+      "pron": "shang4wu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Sorry, today before noon I don't have the time.",
+        "pl": "Przepraszam, dziś przed południem nie mam czasu."
+      },
+      "char": "不好意思，今天上午没有时间。",
+      "pron": "Bu4 hao3yi4si, jin1tian1 shang4wu3 wo3 mei2 you3 shi2jian1."
+    },
+    "cat": "time",
+    "id": 85835,
+    "timeAdded": "2020-09-24T19:39:50.441Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "noon",
+        "pl": "południe"
+      },
+      "char": "中午",
+      "pron": "zhong1wu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We rest at noon.",
+        "pl": "Odpoczywamy w południe."
+      },
+      "char": "我们中午休息。",
+      "pron": "Wo3men zhong1wu3 xiu1xi."
+    },
+    "cat": "time",
+    "id": 51918,
+    "timeAdded": "2020-09-24T19:42:51.832Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "after noon",
+        "pl": "po południu"
+      },
+      "char": "下午",
+      "pron": "xia4wu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Aunt finishes work at five PM.",
+        "pl": "Ciocia kończy pracę o piątej po południu."
+      },
+      "char": "阿姨下午五点下班。",
+      "pron": "A1yi2 xia4wu3 wu3 dian3 xia4ban1."
+    },
+    "cat": "time",
+    "id": 80469,
+    "timeAdded": "2020-09-24T19:45:23.358Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "evening",
+        "pl": "wieczorem"
+      },
+      "char": "晚上",
+      "pron": "wan3shang"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do you have time tomorrow evening?",
+        "pl": "Czy macie czas jutro wieczorem?"
+      },
+      "char": "明天晚上你们有空儿吗？",
+      "pron": "Ming2tian1 wan3shang ni3 you3 kongr4 ma?"
+    },
+    "cat": "time",
+    "id": 62875,
+    "timeAdded": "2020-09-24T19:48:22.149Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "night",
+        "pl": "noc"
+      },
+      "char": "夜间",
+      "pron": "ye4jian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I often sleep during the day and work in the night.",
+        "pl": "Często śpię w dzień, a pracuję nocą."
+      },
+      "char": "我常常白天睡觉，夜间工作。",
+      "pron": "Wo3 chang2chang2 bai2tian1 shui4jiao4, ye4jian1 gong1zuo4."
+    },
+    "cat": "time",
+    "id": 63078,
+    "timeAdded": "2020-09-24T19:52:24.134Z"
   }
 ]
