@@ -5615,5 +5615,89 @@
     "cat": "time",
     "id": 63078,
     "timeAdded": "2020-09-24T19:52:24.134Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "midnight",
+        "pl": "północ"
+      },
+      "char": "半夜",
+      "pron": "ban4ye4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He often goes to sleep only after midnight.",
+        "pl": "On często kładzie się spać po północy."
+      },
+      "char": "我经常半夜后才睡觉。",
+      "pron": "Ta1 jing1chang2 ban4ye4 hou4 cai2 shui4jiao4."
+    },
+    "cat": "time",
+    "id": 63332,
+    "timeAdded": "2020-10-06T20:46:16.020Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "yesteray",
+        "pl": "wczoraj"
+      },
+      "char": "昨天",
+      "pron": "zuo2tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Why didn't you come to class yesterday?",
+        "pl": "Dlaczego wczoraj nie przyszłaś na lekcję?"
+      },
+      "char": "你昨天为什么没来上课？",
+      "pron": "Ni3 zuo2tian1 wei4shen2me mei2 lai2 shang4ke4?"
+    },
+    "cat": "time",
+    "id": 19560,
+    "timeAdded": "2020-10-06T20:48:31.329Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "today",
+        "pl": "dzisiaj"
+      },
+      "char": "今天",
+      "pron": "jin1tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We are very busy today.",
+        "pl": "Jesteśmy dziś bardzo zajęci."
+      },
+      "char": "我们今天很忙。",
+      "pron": "Wo3men jin1tian1 hen3 mang2."
+    },
+    "cat": "time",
+    "id": 10169,
+    "timeAdded": "2020-10-06T20:51:23.381Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "tomorrow",
+        "pl": "jutro"
+      },
+      "char": "明天",
+      "pron": "ming2tian1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Tomorrow it is Wednesday.",
+        "pl": "Jutro jest środa."
+      },
+      "char": "明天是星期三。",
+      "pron": "Ming2tian1 shi4 xing1qi1san1."
+    },
+    "cat": "time",
+    "id": 49431,
+    "timeAdded": "2020-10-06T20:53:00.821Z"
   }
 ]
