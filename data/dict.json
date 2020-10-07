@@ -5699,5 +5699,89 @@
     "cat": "time",
     "id": 49431,
     "timeAdded": "2020-10-06T20:53:00.821Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "previous",
+        "pl": "zeszły"
+      },
+      "char": "上个",
+      "pron": "shang4 ge"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Last week I accidently met my good friend.",
+        "pl": "W zeszłym tygodniu przypadkiem spotkałem mojego dobrego przyjaciela."
+      },
+      "char": "我上个星期哦偶然遇见了我的好朋友。",
+      "pron": "Wo3 shang4 ge xing1qi1 ou3ran2 yu4jian4 le wo3 de hao3 peng2you."
+    },
+    "cat": "time",
+    "id": 4583,
+    "timeAdded": "2020-10-07T20:24:07.024Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "this",
+        "pl": "ten"
+      },
+      "char": "这个",
+      "pron": "zhe4 ge"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We have yet not paid this month's electricity bill.",
+        "pl": "W tym miesiącu jeszcze nie zapłaciliśmy rachunku za prąd."
+      },
+      "char": "我们还没付这个月的电费。",
+      "pron": "Wo3men hai2 mei2 fu4 zhe4 ge yue4 de dian4fei4."
+    },
+    "cat": "time",
+    "id": 46707,
+    "timeAdded": "2020-10-07T20:27:34.879Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "upcoming",
+        "pl": "przyszły"
+      },
+      "char": "下个",
+      "pron": "xia4 ge"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Xiao Li has the next month off.",
+        "pl": "W przyszłym miesiącu Xiao Li ma wolne."
+      },
+      "char": "小李下个月放假。",
+      "pron": "Xiao3 Li3 xia4 ge yue4 fang4jia4."
+    },
+    "cat": "time",
+    "id": 12934,
+    "timeAdded": "2020-10-07T20:31:21.149Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "last year",
+        "pl": "zeszły rok"
+      },
+      "char": "去年",
+      "pron": "qu4nian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Last year in the summer I has doing internship in that company.",
+        "pl": "Latem zeszłego roku miałam praktyki w tej firmie."
+      },
+      "char": "去年夏天我在那家公司实习。",
+      "pron": "Qu4nian2 xia4tian1 wo3 zai4 na4 jia1 gong1si1 shi2xi2."
+    },
+    "cat": "time",
+    "id": 76184,
+    "timeAdded": "2020-10-07T20:36:49.844Z"
   }
 ]
