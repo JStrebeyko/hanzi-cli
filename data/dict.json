@@ -5783,5 +5783,89 @@
     "cat": "time",
     "id": 76184,
     "timeAdded": "2020-10-07T20:36:49.844Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "this year",
+        "pl": "ten rok"
+      },
+      "char": "今年",
+      "pron": "jin1nian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "They are getting married in August this year.",
+        "pl": "Oni biorą ślub w sierpniu tego roku."
+      },
+      "char": "他们今年八月结婚。",
+      "pron": "Ta1men jin1nian2 ba1yue4 jie2hun1."
+    },
+    "cat": "time",
+    "id": 43461,
+    "timeAdded": "2020-10-26T19:24:48.102Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "next year",
+        "pl": "przyszły rok"
+      },
+      "char": "明年",
+      "pron": "ming2nian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We are planning to buy an appartment next year.",
+        "pl": "Planujemy kupić mieszkanie w przyszłym roku."
+      },
+      "char": "明年我们打算买房子。",
+      "pron": "Ming2nian2 wo3men da3suan mai3 fang2zi."
+    },
+    "cat": "time",
+    "id": 92279,
+    "timeAdded": "2020-10-26T19:27:17.493Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "before",
+        "pl": "wcześniej"
+      },
+      "char": "以前",
+      "pron": "yi3qian2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Warsaw now is entirely different than in the past.",
+        "pl": "Warszawa jest teraz zupełnie inna niż kiedyś."
+      },
+      "char": "现在华沙跟以前完全不一样。",
+      "pron": "Xian4zai4 Hua2sha1 gen1 yi3qian2 wan2quan2 bu4 yi1yang4."
+    },
+    "cat": "time",
+    "id": 83034,
+    "timeAdded": "2020-10-26T19:31:29.429Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "now",
+        "pl": "teraz"
+      },
+      "char": "现在",
+      "pron": "xian4zai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Are you busy now?",
+        "pl": "Jesteś teraz zajęta?"
+      },
+      "char": "现在你忙马？",
+      "pron": "Xian4zai4 ni3 mang2 ma?"
+    },
+    "cat": "time",
+    "id": 76053,
+    "timeAdded": "2020-10-26T19:33:45.330Z"
   }
 ]
