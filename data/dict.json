@@ -5867,5 +5867,152 @@
     "cat": "time",
     "id": 76053,
     "timeAdded": "2020-10-26T19:33:45.330Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "after",
+        "pl": "później"
+      },
+      "char": "以后",
+      "pron": "yi3hou4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What are your plans for after graduation?",
+        "pl": "Co zamierzasz robić po ukończeniu szkoły?"
+      },
+      "char": "毕业以后，你打算做什么？",
+      "pron": "Bi4ye4 yi3hou4, ni3 da3suan zuo4 shen2me?"
+    },
+    "cat": "time",
+    "id": 12257,
+    "timeAdded": "2020-10-27T19:20:30.542Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "(age classificator)",
+        "pl": "(klasyfikator do wieku)"
+      },
+      "char": "岁",
+      "pron": "sui4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His younger brother turns thirty this year.",
+        "pl": "Jego młodszy brat w tym roku skończy trzydzieści lat."
+      },
+      "char": "他弟弟今年三十岁了。",
+      "pron": "Ta1 di4di jin1nian2 san1shi2 sui4 le."
+    },
+    "cat": "time",
+    "id": 67854,
+    "timeAdded": "2020-10-27T19:23:44.837Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to count",
+        "pl": "liczyć"
+      },
+      "char": "数",
+      "pron": "shu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "to count from one to ten",
+        "pl": "liczyć od jednego do dziesięciu"
+      },
+      "char": "从一数到十",
+      "pron": "cong2 yi1 shu3 dao4 shi2"
+    },
+    "cat": "numbers",
+    "id": 2752,
+    "timeAdded": "2020-10-27T19:26:30.533Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "zero",
+        "pl": "zero"
+      },
+      "char": "零",
+      "pron": "ling2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Four plus zero gives four.",
+        "pl": "Ctery dodać zero równa się cztery."
+      },
+      "char": "四加零等于四。",
+      "pron": "Si4 jia1 ling2 deng3yu2 si4."
+    },
+    "cat": "numbers",
+    "id": 1146,
+    "timeAdded": "2020-10-27T19:29:21.682Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "one",
+        "pl": "jeden"
+      },
+      "char": "一",
+      "pron": "yi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I have only one good friend.",
+        "pl": "Mam tylko jednego dobrego kolegę."
+      },
+      "char": "我只有一个好朋友。",
+      "pron": "Wo3 zhi3 you3 yi1 ge hao3 peng2you."
+    },
+    "cat": "numbers",
+    "id": 69238,
+    "timeAdded": "2020-10-27T19:32:03.558Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "second",
+        "pl": "drugi"
+      },
+      "char": "二",
+      "pron": "er4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He wants to learn a second foreign language.",
+        "pl": "On chce się uczyć drugiego języka obcego."
+      },
+      "char": "他还要学第二外语。",
+      "pron": "Ta1 hai2 yao4 xue2 di4 er4 wai4yu3."
+    },
+    "cat": "numbers",
+    "id": 90605,
+    "timeAdded": "2020-10-27T19:41:37.922Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "two (cardinal numbers)",
+        "pl": "dwa (w liczebnikach głównych)"
+      },
+      "char": "两",
+      "pron": "liang3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "His neighbour has two dogs.",
+        "pl": "Jego sąsiad ma dwa psy."
+      },
+      "char": "他的邻居有两只狗。",
+      "pron": "Ta1 de lin2ju1 you3 liang3 zhi1 gou3."
+    },
+    "cat": "numbers",
+    "id": 91888,
+    "timeAdded": "2020-10-27T19:44:27.671Z"
   }
 ]
