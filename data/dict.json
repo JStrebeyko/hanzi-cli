@@ -6014,5 +6014,47 @@
     "cat": "numbers",
     "id": 91888,
     "timeAdded": "2020-10-27T19:44:27.671Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "three",
+        "pl": "trzy"
+      },
+      "char": "三",
+      "pron": "san1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Anna asked for a three-day sick leave.",
+        "pl": "Anna poprosiła o trzy dni wolnego z powodu choroby."
+      },
+      "char": "安娜因病请假三天。",
+      "pron": "An1na4 yin1 bing4 qing3jia4 san1 tian1."
+    },
+    "cat": "numbers",
+    "id": 97901,
+    "timeAdded": "2020-10-29T21:14:30.249Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "four",
+        "pl": "cztery"
+      },
+      "char": "四",
+      "pron": "si4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We spent four hours in park today.",
+        "pl": "Spędziliśmy dziś cztery godziny w parku."
+      },
+      "char": "我们今天在公元花了四个小时。",
+      "pron": "Wo3men jin1tian1 zai4 gong1yuan2 hua1 le si4 ge xiao3shi2."
+    },
+    "cat": "numbers",
+    "id": 38227,
+    "timeAdded": "2020-10-29T21:28:48.473Z"
   }
 ]
