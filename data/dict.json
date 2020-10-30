@@ -6056,5 +6056,47 @@
     "cat": "numbers",
     "id": 38227,
     "timeAdded": "2020-10-29T21:28:48.473Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "five",
+        "pl": "pięć"
+      },
+      "char": "五",
+      "pron": "wu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Grandfather passed away five years ago.",
+        "pl": "Dziadek zmarł pięć lat temu."
+      },
+      "char": "爷爷五年前去世了。",
+      "pron": "Ye2ye wu3 nian2 qian2 qu4shi4 le."
+    },
+    "cat": "numbers",
+    "id": 34770,
+    "timeAdded": "2020-10-30T20:10:36.253Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "six",
+        "pl": "sześć"
+      },
+      "char": "六",
+      "pron": "liu4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "You ate six ice creams today already!",
+        "pl": "Zjadłeś już dzisiaj sześć lodów!"
+      },
+      "char": "今天你已经吃了六个冰淇淋！",
+      "pron": "Jin1tian1 ni3 yi3jing1 chi1 le liu4 ge4 bing1qi2lin2!"
+    },
+    "cat": "numbers",
+    "id": 54298,
+    "timeAdded": "2020-10-30T20:12:46.508Z"
   }
 ]
