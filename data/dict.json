@@ -6098,5 +6098,68 @@
     "cat": "numbers",
     "id": 54298,
     "timeAdded": "2020-10-30T20:12:46.508Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "seven",
+        "pl": "siedem"
+      },
+      "char": "七",
+      "pron": "qi1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My older brother is seven years older than me.",
+        "pl": "Mój starszy brat jest ode mnie o siedem lat starszy."
+      },
+      "char": "我哥哥比我大七岁。",
+      "pron": "Wo3 ge1ge bi3 wo3 da4 qi1 sui4."
+    },
+    "cat": "numbers",
+    "id": 22123,
+    "timeAdded": "2020-11-23T19:24:36.099Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "eight",
+        "pl": "osiem"
+      },
+      "char": "八",
+      "pron": "ba1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Today at the library he borrowed eight books.",
+        "pl": "On wypożyczył dziś w bibliotece osiem książek."
+      },
+      "char": "他今天在图书馆借了八本书。",
+      "pron": "Ta1 jin1tian1 zai4 tu2shu1huan3 jie4 le ba1 ben3 shu1."
+    },
+    "cat": "numbers",
+    "id": 59440,
+    "timeAdded": "2020-11-23T19:30:30.353Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "nine",
+        "pl": "dziewięć"
+      },
+      "char": "九",
+      "pron": "jiu3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "My younger brother turns nine this year.",
+        "pl": "Mój młodszy brat kończy w tym roku dziewięć lat."
+      },
+      "char": "我弟弟今年九岁了。",
+      "pron": "Wo3 di4di jin1nian2 jiu3 sui4 le."
+    },
+    "cat": "numbers",
+    "id": 13092,
+    "timeAdded": "2020-11-23T19:33:54.032Z"
   }
 ]
