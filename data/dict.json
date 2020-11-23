@@ -6161,5 +6161,26 @@
     "cat": "numbers",
     "id": 13092,
     "timeAdded": "2020-11-23T19:33:54.032Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "ten",
+        "pl": "dziesięć"
+      },
+      "char": "十",
+      "pron": "shi2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Ten students did not pass the exam.",
+        "pl": "Dziesięciu uczniów nie zdało egazminu."
+      },
+      "char": "十个学生考试没及格。",
+      "pron": "Shi2 ge xue2sheng kao3shi4 mei2 ji2ge2."
+    },
+    "cat": "numbers",
+    "id": 42768,
+    "timeAdded": "2020-11-23T19:37:19.608Z"
   }
 ]
