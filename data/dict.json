@@ -6182,5 +6182,68 @@
     "cat": "numbers",
     "id": 42768,
     "timeAdded": "2020-11-23T19:37:19.608Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "hundred",
+        "pl": "sto"
+      },
+      "char": "百",
+      "pron": "bai3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "one hundred twenty three",
+        "pl": "sto dwadzieścia jeden"
+      },
+      "char": "一百二十三",
+      "pron": "yi1bai3 er4shi2san2"
+    },
+    "cat": "numbers",
+    "id": 27337,
+    "timeAdded": "2020-11-24T20:30:52.484Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to consider, to think, to want",
+        "pl": "myśleć, zastanawiać się, chcieć"
+      },
+      "char": "想",
+      "pron": "xiang3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Reconsider.",
+        "pl": "Przemyśl to jeszcze raz."
+      },
+      "char": "你再想一想吧。",
+      "pron": "Ni3 zai4 xiang3 yi1 xiang3 ba."
+    },
+    "cat": "mind",
+    "id": 53226,
+    "timeAdded": "2020-11-24T20:33:00.098Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to think (to have an opinion, that...)",
+        "pl": "uważać"
+      },
+      "char": "认为",
+      "pron": "ren4wei2"
+    },
+    "sentence": {
+      "trans": {
+        "en": "We think you are right.",
+        "pl": "Uważamy, że masz rację."
+      },
+      "char": "我们认为你是对的。",
+      "pron": "Wo3men ren4wei2 ni3 shi4 dui4 de."
+    },
+    "cat": "mind",
+    "id": 51077,
+    "timeAdded": "2020-11-24T20:38:01.516Z"
   }
 ]
