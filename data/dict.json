@@ -6245,5 +6245,47 @@
     "cat": "mind",
     "id": 51077,
     "timeAdded": "2020-11-24T20:38:01.516Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to want",
+        "pl": "chcieć"
+      },
+      "char": "要",
+      "pron": "yao4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do you want to go with me to a cinema?",
+        "pl": "Czy cchesz pójść ze mną do kina?"
+      },
+      "char": "你要跟我去电影院马？",
+      "pron": "Ni3 yao4 gen1 wo3 qu4 dian4ying3yuan4 ma?"
+    },
+    "cat": "mind",
+    "id": 64026,
+    "timeAdded": "2020-11-29T12:59:29.082Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to hope",
+        "pl": "mieć nadzieję"
+      },
+      "char": "希望",
+      "pron": "xi1wang4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mom hopes I will get married soon.",
+        "pl": "Mama ma nadzieję, że już wkrótce wyjdę za mąż."
+      },
+      "char": "妈妈希望我快要结婚了。",
+      "pron": "Ma1ma xi1wang4 wo3 kuai4 yao4 jie2hun1 le."
+    },
+    "cat": "mind",
+    "id": 18991,
+    "timeAdded": "2020-11-29T13:01:31.934Z"
   }
 ]
