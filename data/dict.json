@@ -6287,5 +6287,47 @@
     "cat": "mind",
     "id": 18991,
     "timeAdded": "2020-11-29T13:01:31.934Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to miss",
+        "pl": "tęsknić"
+      },
+      "char": "想念",
+      "pron": "xiang3nian4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I terribly miss my girlfriend.",
+        "pl": "Strasznie tęsknię za moją dziewczyną"
+      },
+      "char": "我非常想念我女朋友。",
+      "pron": "Wo3 fei1chang2 xiang3nian4 wo4 nu3peng2you."
+    },
+    "cat": "mind",
+    "id": 8980,
+    "timeAdded": "2021-01-30T16:34:23.861Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to believe",
+        "pl": "wierzyć"
+      },
+      "char": "相信",
+      "pron": "xiang1xin4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "He is not to be believed.",
+        "pl": "Nie należy mu wierzyć."
+      },
+      "char": "不要相信他的话。",
+      "pron": "Bu4 yao4 xiang1xin4 ta1 de hua4."
+    },
+    "cat": "mind",
+    "id": 9942,
+    "timeAdded": "2021-01-30T16:36:30.902Z"
   }
 ]
