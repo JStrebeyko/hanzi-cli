@@ -6329,5 +6329,47 @@
     "cat": "mind",
     "id": 9942,
     "timeAdded": "2021-01-30T16:36:30.902Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to worry",
+        "pl": "martwić się"
+      },
+      "char": "担心",
+      "pron": "dan1xin1"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I worry about the exam results very much.",
+        "pl": "Bardzo martwię się wynikami egzaminu."
+      },
+      "char": "我对考试成绩很担心。",
+      "pron": "Wo3 dui4 kao3shi4 cheng2ji4 hen3 dan1xin1."
+    },
+    "cat": "mind",
+    "id": 37724,
+    "timeAdded": "2021-01-31T08:59:21.126Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to remember",
+        "pl": "pamiętać"
+      },
+      "char": "记得",
+      "pron": "ji4de"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do you remember my address?",
+        "pl": "Czy pamiętacie mój adres?"
+      },
+      "char": "你们记得我的地址马？",
+      "pron": "Ni3men ji4de wo3 de di4zhi3 ma?"
+    },
+    "cat": "mind",
+    "id": 70753,
+    "timeAdded": "2021-01-31T09:02:07.635Z"
   }
 ]
