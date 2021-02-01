@@ -6371,5 +6371,47 @@
     "cat": "mind",
     "id": 70753,
     "timeAdded": "2021-01-31T09:02:07.635Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to forget",
+        "pl": "zapominać"
+      },
+      "char": "忘记",
+      "pron": "wang4ji4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Do not forget to take your passport with you.",
+        "pl": "Nie zapomnijcie zabrać ze sobą paszportu."
+      },
+      "char": "不要忘记带护照。",
+      "pron": "Bu4 yao4 wang4ji4 dai4 hu4zhao4."
+    },
+    "cat": "mind",
+    "id": 27543,
+    "timeAdded": "2021-02-01T20:04:57.092Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to understand",
+        "pl": "rozumieć"
+      },
+      "char": "懂",
+      "pron": "dong3"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I do not understand what he means.",
+        "pl": "Nie rozumiem, co on ma na myśli."
+      },
+      "char": "我不懂他的意思。",
+      "pron": "Wo3 bu4 dong3 ta1 de yi4si."
+    },
+    "cat": "mind",
+    "id": 80598,
+    "timeAdded": "2021-02-01T20:07:07.978Z"
   }
 ]
