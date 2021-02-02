@@ -6413,5 +6413,47 @@
     "cat": "mind",
     "id": 80598,
     "timeAdded": "2021-02-01T20:07:07.978Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to love",
+        "pl": "kochać"
+      },
+      "char": "爱",
+      "pron": "ai4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "I love you.",
+        "pl": "Kocham cię."
+      },
+      "char": "我爱你。",
+      "pron": "Wo4 ai4 ni3."
+    },
+    "cat": "mind",
+    "id": 66792,
+    "timeAdded": "2021-02-02T16:05:00.434Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to like",
+        "pl": "lubić"
+      },
+      "char": "喜欢",
+      "pron": "xi3huan"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What do you like doing?",
+        "pl": "Co lubisz robić?"
+      },
+      "char": "你喜欢做什么？",
+      "pron": "Ni3 xi3huan zuo4 shen2me?"
+    },
+    "cat": "mind",
+    "id": 46088,
+    "timeAdded": "2021-02-02T16:06:31.100Z"
   }
 ]
