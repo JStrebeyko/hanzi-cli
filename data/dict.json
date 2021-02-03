@@ -6455,5 +6455,47 @@
     "cat": "mind",
     "id": 46088,
     "timeAdded": "2021-02-02T16:06:31.100Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to despise",
+        "pl": "nie znosić"
+      },
+      "char": "讨厌",
+      "pron": "tao3yan4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Since he was little, he despises carrots.",
+        "pl": "On od małego nie znosi marchewki."
+      },
+      "char": "他从小就讨厌胡萝卜。",
+      "pron": "Ta1 cong2xiao3 jiu4 tao3yan4 hu2luo2bo."
+    },
+    "cat": "mind",
+    "id": 90091,
+    "timeAdded": "2021-02-03T20:41:21.332Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to fear",
+        "pl": "bać się"
+      },
+      "char": "怕",
+      "pron": "pa4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "What do you fear?",
+        "pl": "Czego się boisz?"
+      },
+      "char": "你怕什么？",
+      "pron": "Ni3 pa4 shen2me?"
+    },
+    "cat": "mind",
+    "id": 23943,
+    "timeAdded": "2021-02-03T20:43:41.352Z"
   }
 ]
