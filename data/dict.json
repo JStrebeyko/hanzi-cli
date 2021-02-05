@@ -6497,5 +6497,47 @@
     "cat": "mind",
     "id": 23943,
     "timeAdded": "2021-02-03T20:43:41.352Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "to get angry",
+        "pl": "złościć się"
+      },
+      "char": "生气",
+      "pron": "sheng1qi4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Don't be angry at me!",
+        "pl": "Nie złość się na mnie!"
+      },
+      "char": "别对我生气！",
+      "pron": "Bie2 dui4 wo3 sheng1qi4!"
+    },
+    "cat": "mind",
+    "id": 38066,
+    "timeAdded": "2021-02-05T07:35:21.471Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "happy",
+        "pl": "szczęśliwy"
+      },
+      "char": "高兴",
+      "pron": "gao1xing4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "It is very nice to meet you. (“It makes me very happy to get to know you.”)",
+        "pl": "Bardzo mi miło Pana poznać. (\"Jestem bardzo szczęśliwy, że mogę Pana poznać\")"
+      },
+      "char": "认识您我很高兴。",
+      "pron": "Ren4shi nin2 wo3 hen4 gao1xing4."
+    },
+    "cat": "mind",
+    "id": 6791,
+    "timeAdded": "2021-02-05T07:38:39.751Z"
   }
 ]
