@@ -6539,5 +6539,26 @@
     "cat": "mind",
     "id": 6791,
     "timeAdded": "2021-02-05T07:38:39.751Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "sad",
+        "pl": "smutny"
+      },
+      "char": "难过",
+      "pron": "nan2guo4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Mary is sad for the entire day today.",
+        "pl": "Maria jest dziś cały dzień smutna."
+      },
+      "char": "玛丽今天整天很难过。",
+      "pron": "Ma3li4 jin1tian1 zheng3tian1 hen3 nan2guo4."
+    },
+    "cat": "mind",
+    "id": 10467,
+    "timeAdded": "2021-02-06T08:16:05.150Z"
   }
 ]
