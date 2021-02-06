@@ -6560,5 +6560,26 @@
     "cat": "mind",
     "id": 10467,
     "timeAdded": "2021-02-06T08:16:05.150Z"
+  },
+  {
+    "hanzi": {
+      "trans": {
+        "en": "curly hair",
+        "pl": "kręcone włosy"
+      },
+      "char": "卷发",
+      "pron": "juan3fa4"
+    },
+    "sentence": {
+      "trans": {
+        "en": "Both sisters had curly blond hair.",
+        "pl": "Obie siostry miały kręcone blond włosy."
+      },
+      "char": "这两个姐妹长着金色卷发。",
+      "pron": "Zhe4 liang3 ge jie3mei4 zhang3zhe jin1se juan3fa4."
+    },
+    "cat": "features",
+    "id": 1509,
+    "timeAdded": "2021-02-06T08:31:40.065Z"
   }
 ]
